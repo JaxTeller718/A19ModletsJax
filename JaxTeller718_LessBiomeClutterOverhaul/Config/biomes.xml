@@ -1,0 +1,795 @@
+<JaxTeller718>
+	<set xpath="/worldgeneration/biomes/biome[@name='snow']/subbiome[@prob='0.1']/decorations/decoration[@type='prefab' and @name='deco_iron_vein']/@prob">0.00157</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='snow']/subbiome[@prob='0.1']/decorations/decoration[@type='block' and @blockname='treeSnowyGrassDiagonal']/@prob">0.1</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='snow']/subbiome[@prob='0.1']/decorations/decoration[@type='block' and @blockname='plantedBlueberry3Harvest']/@prob">0.001</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='snow']/subbiome[@prob='0.1']/decorations/decoration[@type='block' and @blockname='plantedSnowberry3Harvest']/@prob">0.07</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='snow']/subbiome[@prob='0.1']/decorations/decoration[@type='block' and @blockname='rock05']/@prob">0.005</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='snow']/subbiome[@prob='0.1']/decorations/decoration[@type='block' and @blockname='rock06']/@prob">0.005</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='snow']/subbiome[@prob='0.1']/decorations/decoration[@type='block' and @blockname='rock07']/@prob">0.005</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='snow']/subbiome[@prob='0.1']/decorations/decoration[@type='block' and @blockname='rockResource']/@prob">0.00033</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='snow']/subbiome[@prob='0.1']/decorations/decoration[@type='block' and @blockname='rockResource02']/@prob">0.00033</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='snow']/subbiome[@prob='0.1']/decorations/decoration[@type='block' and @blockname='cntBirdnest']/@prob">0.001</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='snow']/subbiome[@prob='0.1']/decorations/decoration[@type='block' and @blockname='cntForestRandomLootHelper']/@prob">0.001</set>
+
+	<set xpath="/worldgeneration/biomes/biome[@name='snow']/subbiome[@prob='0.292']/decorations/decoration[@type='prefab' and @name='deco_coal_vein']/@prob">0.00157</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='snow']/subbiome[@prob='0.292']/decorations/decoration[@type='block' and @blockname='treeSnowyGrassDiagonal']/@prob">0.1</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='snow']/subbiome[@prob='0.292']/decorations/decoration[@type='block' and @blockname='rock05']/@prob">0.005</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='snow']/subbiome[@prob='0.292']/decorations/decoration[@type='block' and @blockname='rock06']/@prob">0.005</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='snow']/subbiome[@prob='0.292']/decorations/decoration[@type='block' and @blockname='rock07']/@prob">0.005</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='snow']/subbiome[@prob='0.292']/decorations/decoration[@type='block' and @blockname='rockResource']/@prob">0.00033</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='snow']/subbiome[@prob='0.292']/decorations/decoration[@type='block' and @blockname='rockResource02']/@prob">0.00033</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='snow']/subbiome[@prob='0.292']/decorations/decoration[@type='block' and @blockname='cntBirdnest']/@prob">0.001</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='snow']/subbiome[@prob='0.292']/decorations/decoration[@type='block' and @blockname='cntForestRandomLootHelper']/@prob">0.001</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='snow']/subbiome[@prob='0.292']/decorations/decoration[@type='prefab' and @name='rock_form02']/@prob">0.0005</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='snow']/subbiome[@prob='0.292']/decorations/decoration[@type='prefab' and @name='rock_form01']/@prob">0.0005</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='snow']/subbiome[@prob='0.292']/decorations/decoration[@type='block' and @blockname='treeWinterEverGreen']/@prob">0.003</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='snow']/subbiome[@prob='0.292']/decorations/decoration[@type='block' and @blockname='treeWinterPine13m']/@prob">0.003</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='snow']/subbiome[@prob='0.292']/decorations/decoration[@type='block' and @blockname='treeWinterPine19m']/@prob">0.003</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='snow']/subbiome[@prob='0.292']/decorations/decoration[@type='block' and @blockname='treeWinterPine28m']/@prob">0.003</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='snow']/subbiome[@prob='0.292']/decorations/decoration[@type='block' and @blockname='treeSnowyDeadBush']/@prob">0.005</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='snow']/subbiome[@prob='0.292']/decorations/decoration[@type='block' and @blockname='treeStump']/@prob">0.0002</set>
+
+	<set xpath="/worldgeneration/biomes/biome[@name='snow']/subbiome[@prob='0.312']/decorations/decoration[@type='prefab' and @name='deco_nitrate_vein']/@prob">0.00157</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='snow']/subbiome[@prob='0.312']/decorations/decoration[@type='block' and @blockname='treeSnowyGrassDiagonal']/@prob">0.1</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='snow']/subbiome[@prob='0.312']/decorations/decoration[@type='block' and @blockname='rock05']/@prob">0.005</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='snow']/subbiome[@prob='0.312']/decorations/decoration[@type='block' and @blockname='rock06']/@prob">0.005</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='snow']/subbiome[@prob='0.312']/decorations/decoration[@type='block' and @blockname='rock07']/@prob">0.005</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='snow']/subbiome[@prob='0.312']/decorations/decoration[@type='block' and @blockname='rockResource']/@prob">0.00033</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='snow']/subbiome[@prob='0.312']/decorations/decoration[@type='block' and @blockname='rockResource02']/@prob">0.00033</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='snow']/subbiome[@prob='0.312']/decorations/decoration[@type='block' and @blockname='cntBirdnest']/@prob">0.001</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='snow']/subbiome[@prob='0.312']/decorations/decoration[@type='block' and @blockname='cntForestRandomLootHelper']/@prob">0.001</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='snow']/subbiome[@prob='0.312']/decorations/decoration[@type='prefab' and @name='rock_form02']/@prob">0.0005</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='snow']/subbiome[@prob='0.312']/decorations/decoration[@type='prefab' and @name='rock_form01']/@prob">0.0005</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='snow']/subbiome[@prob='0.312']/decorations/decoration[@type='block' and @blockname='treeWinterEverGreen']/@prob">0.003</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='snow']/subbiome[@prob='0.312']/decorations/decoration[@type='block' and @blockname='treeWinterPine13m']/@prob">0.003</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='snow']/subbiome[@prob='0.312']/decorations/decoration[@type='block' and @blockname='treeWinterPine19m']/@prob">0.003</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='snow']/subbiome[@prob='0.312']/decorations/decoration[@type='block' and @blockname='treeWinterPine28m']/@prob">0.003</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='snow']/subbiome[@prob='0.312']/decorations/decoration[@type='block' and @blockname='treeSnowyDeadBush']/@prob">0.005</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='snow']/subbiome[@prob='0.312']/decorations/decoration[@type='block' and @blockname='treeStump']/@prob">0.0002</set>
+
+	<set xpath="/worldgeneration/biomes/biome[@name='snow']/subbiome[@prob='0.342']/decorations/decoration[@type='prefab' and @name='deco_lead_vein']/@prob">0.00157</set>	
+	<set xpath="/worldgeneration/biomes/biome[@name='snow']/subbiome[@prob='0.342']/decorations/decoration[@type='block' and @blockname='treeSnowyGrassDiagonal']/@prob">0.1</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='snow']/subbiome[@prob='0.342']/decorations/decoration[@type='block' and @blockname='rock05']/@prob">0.005</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='snow']/subbiome[@prob='0.342']/decorations/decoration[@type='block' and @blockname='rock06']/@prob">0.005</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='snow']/subbiome[@prob='0.342']/decorations/decoration[@type='block' and @blockname='rock07']/@prob">0.005</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='snow']/subbiome[@prob='0.342']/decorations/decoration[@type='block' and @blockname='rockResource']/@prob">0.00033</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='snow']/subbiome[@prob='0.342']/decorations/decoration[@type='block' and @blockname='rockResource02']/@prob">0.00033</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='snow']/subbiome[@prob='0.342']/decorations/decoration[@type='block' and @blockname='cntBirdnest']/@prob">0.001</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='snow']/subbiome[@prob='0.342']/decorations/decoration[@type='block' and @blockname='cntForestRandomLootHelper']/@prob">0.001</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='snow']/subbiome[@prob='0.342']/decorations/decoration[@type='prefab' and @name='rock_form02']/@prob">0.0005</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='snow']/subbiome[@prob='0.342']/decorations/decoration[@type='prefab' and @name='rock_form01']/@prob">0.0005</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='snow']/subbiome[@prob='0.342']/decorations/decoration[@type='block' and @blockname='treeWinterEverGreen']/@prob">0.003</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='snow']/subbiome[@prob='0.342']/decorations/decoration[@type='block' and @blockname='treeWinterPine13m']/@prob">0.003</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='snow']/subbiome[@prob='0.342']/decorations/decoration[@type='block' and @blockname='treeWinterPine19m']/@prob">0.003</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='snow']/subbiome[@prob='0.342']/decorations/decoration[@type='block' and @blockname='treeWinterPine28m']/@prob">0.003</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='snow']/subbiome[@prob='0.342']/decorations/decoration[@type='block' and @blockname='treeSnowyDeadBush']/@prob">0.005</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='snow']/subbiome[@prob='0.342']/decorations/decoration[@type='block' and @blockname='treeStump']/@prob">0.0002</set>
+
+	<set xpath="/worldgeneration/biomes/biome[@name='snow']/decorations/decoration[@type='prefab' and @name='deco_iron_vein']/@prob">0.00157</set>	
+	<set xpath="/worldgeneration/biomes/biome[@name='snow']/decorations/decoration[@type='block' and @blockname='treeSnowyGrassDiagonal']/@prob">0.1</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='snow']/decorations/decoration[@type='block' and @blockname='rock05']/@prob">0.005</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='snow']/decorations/decoration[@type='block' and @blockname='rock06']/@prob">0.005</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='snow']/decorations/decoration[@type='block' and @blockname='rock07']/@prob">0.005</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='snow']/decorations/decoration[@type='block' and @blockname='rockResource']/@prob">0.00033</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='snow']/decorations/decoration[@type='block' and @blockname='rockResource02']/@prob">0.00033</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='snow']/decorations/decoration[@type='block' and @blockname='cntBirdnest']/@prob">0.001</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='snow']/decorations/decoration[@type='block' and @blockname='cntForestRandomLootHelper']/@prob">0.001</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='snow']/decorations/decoration[@type='prefab' and @name='rock_form02']/@prob">0.0005</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='snow']/decorations/decoration[@type='prefab' and @name='rock_form01']/@prob">0.0005</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='snow']/decorations/decoration[@type='block' and @blockname='treeWinterEverGreen']/@prob">0.003</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='snow']/decorations/decoration[@type='block' and @blockname='treeWinterPine13m']/@prob">0.003</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='snow']/decorations/decoration[@type='block' and @blockname='treeWinterPine19m']/@prob">0.003</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='snow']/decorations/decoration[@type='block' and @blockname='treeWinterPine28m']/@prob">0.003</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='snow']/decorations/decoration[@type='block' and @blockname='treeSnowyDeadBush']/@prob">0.005</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='snow']/decorations/decoration[@type='block' and @blockname='treeStump']/@prob">0.0002</set>
+	
+	
+	<set xpath="/worldgeneration/biomes/biome[@name='pine_forest']/subbiome[@prob='0.12']/decorations/decoration[@type='prefab' and @name='deco_iron_vein']/@prob">0.00157</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='pine_forest']/subbiome[@prob='0.12']/decorations/decoration[@type='block' and @blockname='rockResource']/@prob">0.00033</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='pine_forest']/subbiome[@prob='0.12']/decorations/decoration[@type='block' and @blockname='rockResource02']/@prob">0.00033</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='pine_forest']/subbiome[@prob='0.12']/decorations/decoration[@type='block' and @blockname='plantedGoldenrod3Harvest']/@prob">0.008</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='pine_forest']/subbiome[@prob='0.12']/decorations/decoration[@type='block' and @blockname='plantedCotton3Harvest']/@prob">0.02</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='pine_forest']/subbiome[@prob='0.12']/decorations/decoration[@type='block' and @blockname='plantedChrysanthemum3Harvest']/@prob">0.01</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='pine_forest']/subbiome[@prob='0.12']/decorations/decoration[@type='block' and @blockname='rock01']/@prob">0.01</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='pine_forest']/subbiome[@prob='0.12']/decorations/decoration[@type='block' and @blockname='rock02']/@prob">0.01</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='pine_forest']/subbiome[@prob='0.12']/decorations/decoration[@type='block' and @blockname='rock04']/@prob">0.01</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='pine_forest']/subbiome[@prob='0.12']/decorations/decoration[@type='block' and @blockname='treeTallGrassDiagonal']/@prob">0.2</set>
+
+	<set xpath="/worldgeneration/biomes/biome[@name='pine_forest']/subbiome[@prob='0.292']/decorations/decoration[@type='prefab' and @name='deco_coal_vein']/@prob">0.00157</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='pine_forest']/subbiome[@prob='0.292']/decorations/decoration[@type='block' and @blockname='rockResource']/@prob">0.00033</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='pine_forest']/subbiome[@prob='0.292']/decorations/decoration[@type='block' and @blockname='rockResource02']/@prob">0.00033</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='pine_forest']/subbiome[@prob='0.292']/decorations/decoration[@type='block' and @blockname='cntForestRandomLootHelper']/@prob">0.00025</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='pine_forest']/subbiome[@prob='0.292']/decorations/decoration[@type='prefab' and @name='rock_form02']/@prob">0.001</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='pine_forest']/subbiome[@prob='0.292']/decorations/decoration[@type='prefab' and @name='rock_form01']/@prob">0.001</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='pine_forest']/subbiome[@prob='0.292']/decorations/decoration[@type='block' and @blockname='plantedCotton3Harvest']/@prob">0.0007</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='pine_forest']/subbiome[@prob='0.292']/decorations/decoration[@type='block' and @blockname='rock01']/@prob">0.001</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='pine_forest']/subbiome[@prob='0.292']/decorations/decoration[@type='block' and @blockname='rock02']/@prob">0.001</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='pine_forest']/subbiome[@prob='0.292']/decorations/decoration[@type='block' and @blockname='rock04']/@prob">0.001</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='pine_forest']/subbiome[@prob='0.292']/decorations/decoration[@type='block' and @blockname='cntBirdnest']/@prob">0.001</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='pine_forest']/subbiome[@prob='0.292']/decorations/decoration[@type='block' and @blockname='treeDeadPineLeaf']/@prob">0.007</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='pine_forest']/subbiome[@prob='0.292']/decorations/decoration[@type='block' and @blockname='treeJuniper4m']/@prob">0.001</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='pine_forest']/subbiome[@prob='0.292']/decorations/decoration[@type='block' and @blockname='treeMountainPine12m']/@prob">0.001</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='pine_forest']/subbiome[@prob='0.292']/decorations/decoration[@type='block' and @blockname='treeMountainPine19m']/@prob">0.0015</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='pine_forest']/subbiome[@prob='0.292']/decorations/decoration[@type='block' and @blockname='treeMountainPine27m']/@prob">0.002</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='pine_forest']/subbiome[@prob='0.292']/decorations/decoration[@type='block' and @blockname='treeMountainPine31m']/@prob">0.002</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='pine_forest']/subbiome[@prob='0.292']/decorations/decoration[@type='block' and @blockname='treeMountainPineDry21m']/@prob">0.002</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='pine_forest']/subbiome[@prob='0.292']/decorations/decoration[@type='block' and @blockname='treeMountainPine41m']/@prob">0.004</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='pine_forest']/subbiome[@prob='0.292']/decorations/decoration[@type='block' and @blockname='plantedSnowberry3Harvest']/@prob">0.0007</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='pine_forest']/subbiome[@prob='0.292']/decorations/decoration[@type='block' and @blockname='plantedChrysanthemum3Harvest']/@prob">0.0007</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='pine_forest']/subbiome[@prob='0.292']/decorations/decoration[@type='block' and @blockname='treeTallGrassDiagonal']/@prob">0.1</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='pine_forest']/subbiome[@prob='0.292']/decorations/decoration[@type='block' and @blockname='treeOakLrg01']/@prob">0.001</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='pine_forest']/subbiome[@prob='0.292']/decorations/decoration[@type='block' and @blockname='treeOakMed01']/@prob">0.001</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='pine_forest']/subbiome[@prob='0.292']/decorations/decoration[@type='block' and @blockname='treeOakMed02']/@prob">0.001</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='pine_forest']/subbiome[@prob='0.292']/decorations/decoration[@type='block' and @blockname='treeOakSml01']/@prob">0.001</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='pine_forest']/subbiome[@prob='0.292']/decorations/decoration[@type='block' and @blockname='treeFirLrg01']/@prob">0.0005</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='pine_forest']/subbiome[@prob='0.292']/decorations/decoration[@type='block' and @blockname='treeMountainPine48m']/@prob">0.0005</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='pine_forest']/subbiome[@prob='0.292']/decorations/decoration[@type='block' and @blockname='treeStump']/@prob">0.0002</set>
+
+	<set xpath="/worldgeneration/biomes/biome[@name='pine_forest']/subbiome[@prob='0.312']/decorations/decoration[@type='prefab' and @name='deco_nitrate_vein']/@prob">0.00157</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='pine_forest']/subbiome[@prob='0.312']/decorations/decoration[@type='block' and @blockname='rockResource']/@prob">0.00033</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='pine_forest']/subbiome[@prob='0.312']/decorations/decoration[@type='block' and @blockname='rockResource02']/@prob">0.00033</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='pine_forest']/subbiome[@prob='0.312']/decorations/decoration[@type='block' and @blockname='cntForestRandomLootHelper']/@prob">0.00025</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='pine_forest']/subbiome[@prob='0.312']/decorations/decoration[@type='prefab' and @name='rock_form02']/@prob">0.001</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='pine_forest']/subbiome[@prob='0.312']/decorations/decoration[@type='prefab' and @name='rock_form01']/@prob">0.001</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='pine_forest']/subbiome[@prob='0.312']/decorations/decoration[@type='block' and @blockname='plantedCotton3Harvest']/@prob">0.0007</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='pine_forest']/subbiome[@prob='0.312']/decorations/decoration[@type='block' and @blockname='rock01']/@prob">0.001</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='pine_forest']/subbiome[@prob='0.312']/decorations/decoration[@type='block' and @blockname='rock02']/@prob">0.001</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='pine_forest']/subbiome[@prob='0.312']/decorations/decoration[@type='block' and @blockname='rock04']/@prob">0.001</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='pine_forest']/subbiome[@prob='0.312']/decorations/decoration[@type='block' and @blockname='cntBirdnest']/@prob">0.001</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='pine_forest']/subbiome[@prob='0.312']/decorations/decoration[@type='block' and @blockname='treeDeadPineLeaf']/@prob">0.007</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='pine_forest']/subbiome[@prob='0.312']/decorations/decoration[@type='block' and @blockname='treeJuniper4m']/@prob">0.001</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='pine_forest']/subbiome[@prob='0.312']/decorations/decoration[@type='block' and @blockname='treeMountainPine12m']/@prob">0.001</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='pine_forest']/subbiome[@prob='0.312']/decorations/decoration[@type='block' and @blockname='treeMountainPine19m']/@prob">0.0015</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='pine_forest']/subbiome[@prob='0.312']/decorations/decoration[@type='block' and @blockname='treeMountainPine27m']/@prob">0.002</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='pine_forest']/subbiome[@prob='0.312']/decorations/decoration[@type='block' and @blockname='treeMountainPine31m']/@prob">0.002</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='pine_forest']/subbiome[@prob='0.312']/decorations/decoration[@type='block' and @blockname='treeMountainPineDry21m']/@prob">0.002</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='pine_forest']/subbiome[@prob='0.312']/decorations/decoration[@type='block' and @blockname='treeMountainPine41m']/@prob">0.004</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='pine_forest']/subbiome[@prob='0.312']/decorations/decoration[@type='block' and @blockname='plantedSnowberry3Harvest']/@prob">0.0007</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='pine_forest']/subbiome[@prob='0.312']/decorations/decoration[@type='block' and @blockname='plantedChrysanthemum3Harvest']/@prob">0.0007</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='pine_forest']/subbiome[@prob='0.312']/decorations/decoration[@type='block' and @blockname='treeTallGrassDiagonal']/@prob">0.1</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='pine_forest']/subbiome[@prob='0.312']/decorations/decoration[@type='block' and @blockname='treeOakLrg01']/@prob">0.001</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='pine_forest']/subbiome[@prob='0.312']/decorations/decoration[@type='block' and @blockname='treeOakMed01']/@prob">0.001</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='pine_forest']/subbiome[@prob='0.312']/decorations/decoration[@type='block' and @blockname='treeOakMed02']/@prob">0.001</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='pine_forest']/subbiome[@prob='0.312']/decorations/decoration[@type='block' and @blockname='treeOakSml01']/@prob">0.001</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='pine_forest']/subbiome[@prob='0.312']/decorations/decoration[@type='block' and @blockname='treeFirLrg01']/@prob">0.0005</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='pine_forest']/subbiome[@prob='0.312']/decorations/decoration[@type='block' and @blockname='treeMountainPine48m']/@prob">0.0005</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='pine_forest']/subbiome[@prob='0.312']/decorations/decoration[@type='block' and @blockname='treeStump']/@prob">0.0002</set>
+
+	<set xpath="/worldgeneration/biomes/biome[@name='pine_forest']/subbiome[@prob='0.342']/decorations/decoration[@type='prefab' and @name='deco_lead_vein']/@prob">0.00157</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='pine_forest']/subbiome[@prob='0.342']/decorations/decoration[@type='block' and @blockname='rockResource']/@prob">0.00033</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='pine_forest']/subbiome[@prob='0.342']/decorations/decoration[@type='block' and @blockname='rockResource02']/@prob">0.00033</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='pine_forest']/subbiome[@prob='0.342']/decorations/decoration[@type='block' and @blockname='cntForestRandomLootHelper']/@prob">0.00025</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='pine_forest']/subbiome[@prob='0.342']/decorations/decoration[@type='prefab' and @name='rock_form02']/@prob">0.001</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='pine_forest']/subbiome[@prob='0.342']/decorations/decoration[@type='prefab' and @name='rock_form01']/@prob">0.001</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='pine_forest']/subbiome[@prob='0.342']/decorations/decoration[@type='block' and @blockname='plantedCotton3Harvest']/@prob">0.0007</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='pine_forest']/subbiome[@prob='0.342']/decorations/decoration[@type='block' and @blockname='rock01']/@prob">0.001</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='pine_forest']/subbiome[@prob='0.342']/decorations/decoration[@type='block' and @blockname='rock02']/@prob">0.001</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='pine_forest']/subbiome[@prob='0.342']/decorations/decoration[@type='block' and @blockname='rock04']/@prob">0.001</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='pine_forest']/subbiome[@prob='0.342']/decorations/decoration[@type='block' and @blockname='cntBirdnest']/@prob">0.001</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='pine_forest']/subbiome[@prob='0.342']/decorations/decoration[@type='block' and @blockname='treeDeadPineLeaf']/@prob">0.007</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='pine_forest']/subbiome[@prob='0.342']/decorations/decoration[@type='block' and @blockname='treeJuniper4m']/@prob">0.001</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='pine_forest']/subbiome[@prob='0.342']/decorations/decoration[@type='block' and @blockname='treeMountainPine12m']/@prob">0.001</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='pine_forest']/subbiome[@prob='0.342']/decorations/decoration[@type='block' and @blockname='treeMountainPine19m']/@prob">0.0015</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='pine_forest']/subbiome[@prob='0.342']/decorations/decoration[@type='block' and @blockname='treeMountainPine27m']/@prob">0.002</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='pine_forest']/subbiome[@prob='0.342']/decorations/decoration[@type='block' and @blockname='treeMountainPine31m']/@prob">0.002</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='pine_forest']/subbiome[@prob='0.342']/decorations/decoration[@type='block' and @blockname='treeMountainPineDry21m']/@prob">0.002</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='pine_forest']/subbiome[@prob='0.342']/decorations/decoration[@type='block' and @blockname='treeMountainPine41m']/@prob">0.004</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='pine_forest']/subbiome[@prob='0.342']/decorations/decoration[@type='block' and @blockname='plantedSnowberry3Harvest']/@prob">0.0007</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='pine_forest']/subbiome[@prob='0.342']/decorations/decoration[@type='block' and @blockname='plantedChrysanthemum3Harvest']/@prob">0.0007</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='pine_forest']/subbiome[@prob='0.342']/decorations/decoration[@type='block' and @blockname='treeTallGrassDiagonal']/@prob">0.1</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='pine_forest']/subbiome[@prob='0.342']/decorations/decoration[@type='block' and @blockname='treeOakLrg01']/@prob">0.001</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='pine_forest']/subbiome[@prob='0.342']/decorations/decoration[@type='block' and @blockname='treeOakMed01']/@prob">0.001</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='pine_forest']/subbiome[@prob='0.342']/decorations/decoration[@type='block' and @blockname='treeOakMed02']/@prob">0.001</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='pine_forest']/subbiome[@prob='0.342']/decorations/decoration[@type='block' and @blockname='treeOakSml01']/@prob">0.001</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='pine_forest']/subbiome[@prob='0.342']/decorations/decoration[@type='block' and @blockname='treeFirLrg01']/@prob">0.0005</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='pine_forest']/subbiome[@prob='0.342']/decorations/decoration[@type='block' and @blockname='treeMountainPine48m']/@prob">0.0005</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='pine_forest']/subbiome[@prob='0.342']/decorations/decoration[@type='block' and @blockname='treeStump']/@prob">0.0002</set>
+
+	<set xpath="/worldgeneration/biomes/biome[@name='pine_forest']/decorations/decoration[@type='prefab' and @name='deco_iron_vein']/@prob">0.00157</set>	
+	<set xpath="/worldgeneration/biomes/biome[@name='pine_forest']/decorations/decoration[@type='block' and @blockname='rockResource']/@prob">0.00033</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='pine_forest']/decorations/decoration[@type='block' and @blockname='rockResource02']/@prob">0.00033</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='pine_forest']/decorations/decoration[@type='block' and @blockname='cntForestRandomLootHelper']/@prob">0.00025</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='pine_forest']/decorations/decoration[@type='prefab' and @name='rock_form02']/@prob">0.001</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='pine_forest']/decorations/decoration[@type='prefab' and @name='rock_form01']/@prob">0.001</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='pine_forest']/decorations/decoration[@type='block' and @blockname='plantedCotton3Harvest']/@prob">0.0007</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='pine_forest']/decorations/decoration[@type='block' and @blockname='rock01']/@prob">0.001</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='pine_forest']/decorations/decoration[@type='block' and @blockname='rock02']/@prob">0.001</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='pine_forest']/decorations/decoration[@type='block' and @blockname='rock04']/@prob">0.001</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='pine_forest']/decorations/decoration[@type='block' and @blockname='cntBirdnest']/@prob">0.001</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='pine_forest']/decorations/decoration[@type='block' and @blockname='treeDeadPineLeaf']/@prob">0.007</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='pine_forest']/decorations/decoration[@type='block' and @blockname='treeJuniper4m']/@prob">0.001</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='pine_forest']/decorations/decoration[@type='block' and @blockname='treeMountainPine12m']/@prob">0.001</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='pine_forest']/decorations/decoration[@type='block' and @blockname='treeMountainPine19m']/@prob">0.0015</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='pine_forest']/decorations/decoration[@type='block' and @blockname='treeMountainPine27m']/@prob">0.002</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='pine_forest']/decorations/decoration[@type='block' and @blockname='treeMountainPine31m']/@prob">0.002</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='pine_forest']/decorations/decoration[@type='block' and @blockname='treeMountainPineDry21m']/@prob">0.002</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='pine_forest']/decorations/decoration[@type='block' and @blockname='treeMountainPine41m']/@prob">0.004</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='pine_forest']/decorations/decoration[@type='block' and @blockname='plantedSnowberry3Harvest']/@prob">0.0007</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='pine_forest']/decorations/decoration[@type='block' and @blockname='plantedChrysanthemum3Harvest']/@prob">0.0007</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='pine_forest']/decorations/decoration[@type='block' and @blockname='treeTallGrassDiagonal']/@prob">0.4</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='pine_forest']/decorations/decoration[@type='block' and @blockname='treeOakLrg01']/@prob">0.001</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='pine_forest']/decorations/decoration[@type='block' and @blockname='treeOakMed01']/@prob">0.001</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='pine_forest']/decorations/decoration[@type='block' and @blockname='treeOakMed02']/@prob">0.001</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='pine_forest']/decorations/decoration[@type='block' and @blockname='treeOakSml01']/@prob">0.001</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='pine_forest']/decorations/decoration[@type='block' and @blockname='treeFirLrg01']/@prob">0.0005</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='pine_forest']/decorations/decoration[@type='block' and @blockname='treeMountainPine48m']/@prob">0.0005</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='pine_forest']/decorations/decoration[@type='block' and @blockname='treeStump']/@prob">0.0002</set>
+
+
+	<set xpath="/worldgeneration/biomes/biome[@name='desert']/subbiome[@prob='0.09']/decorations/decoration[@type='prefab' and @name='deco_iron_vein']/@prob">0.00157</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='desert']/subbiome[@prob='0.09']/decorations/decoration[@type='block' and @blockname='rockResource']/@prob">0.00033</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='desert']/subbiome[@prob='0.09']/decorations/decoration[@type='block' and @blockname='rockResource02']/@prob">0.00033</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='desert']/subbiome[@prob='0.09']/decorations/decoration[@type='block' and @blockname='treeCactus01']/@prob">0.0007</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='desert']/subbiome[@prob='0.09']/decorations/decoration[@type='block' and @blockname='treeCactus02']/@prob">0.01</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='desert']/subbiome[@prob='0.09']/decorations/decoration[@type='block' and @blockname='treeCactus03']/@prob">0.008</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='desert']/subbiome[@prob='0.09']/decorations/decoration[@type='block' and @blockname='treeCactus04']/@prob">0.008</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='desert']/subbiome[@prob='0.09']/decorations/decoration[@type='block' and @blockname='treeCactus05']/@prob">0.008</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='desert']/subbiome[@prob='0.09']/decorations/decoration[@type='block' and @blockname='treeCactus06']/@prob">0.008</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='desert']/subbiome[@prob='0.09']/decorations/decoration[@type='block' and @blockname='carsRandomHelper']/@prob">0.001</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='desert']/subbiome[@prob='0.09']/decorations/decoration[@type='block' and @blockname='treeDesertShrub']/@prob">0.25</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='desert']/subbiome[@prob='0.09']/decorations/decoration[@type='block' and @blockname='cntDesertRandomLootHelper']/@prob">0.007</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='desert']/subbiome[@prob='0.09']/decorations/decoration[@type='block' and @blockname='treeBrownGrassDiagonal']/@prob">0.025</set>
+	
+	<set xpath="/worldgeneration/biomes/biome[@name='desert']/subbiome[@prob='0.04']/decorations/decoration[@type='block' and @blockname='rockResource']/@prob">0.00033</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='desert']/subbiome[@prob='0.04']/decorations/decoration[@type='block' and @blockname='rockResource02']/@prob">0.00033</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='desert']/subbiome[@prob='0.04']/decorations/decoration[@type='block' and @blockname='treeDesertShrub']/@prob">0.25</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='desert']/subbiome[@prob='0.04']/decorations/decoration[@type='block' and @blockname='plantedYucca3Harvest']/@prob">0.03</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='desert']/subbiome[@prob='0.04']/decorations/decoration[@type='block' and @blockname='plantedAloe3Harvest']/@prob">0.03</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='desert']/subbiome[@prob='0.04']/decorations/decoration[@type='block' and @blockname='treeBrownGrassDiagonal']/@prob">0.025</set>
+	
+	<set xpath="/worldgeneration/biomes/biome[@name='desert']/subbiome[@prob='0.302']/decorations/decoration[@type='prefab' and @name='deco_shale_vein']/@prob">0.00157</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='desert']/subbiome[@prob='0.302']/decorations/decoration[@type='block' and @blockname='rockResource']/@prob">0.00033</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='desert']/subbiome[@prob='0.302']/decorations/decoration[@type='block' and @blockname='rockResource02']/@prob">0.00033</set>	
+	<set xpath="/worldgeneration/biomes/biome[@name='desert']/subbiome[@prob='0.302']/decorations/decoration[@type='block' and @blockname='treeCactus01']/@prob">0.004</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='desert']/subbiome[@prob='0.302']/decorations/decoration[@type='block' and @blockname='treeCactus02']/@prob">0.004</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='desert']/subbiome[@prob='0.302']/decorations/decoration[@type='block' and @blockname='treeCactus03']/@prob">0.004</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='desert']/subbiome[@prob='0.302']/decorations/decoration[@type='block' and @blockname='treeCactus04']/@prob">0.004</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='desert']/subbiome[@prob='0.302']/decorations/decoration[@type='block' and @blockname='treeCactus05']/@prob">0.004</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='desert']/subbiome[@prob='0.302']/decorations/decoration[@type='block' and @blockname='rock01']/@prob">0.001</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='desert']/subbiome[@prob='0.302']/decorations/decoration[@type='block' and @blockname='rock02']/@prob">0.001</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='desert']/subbiome[@prob='0.302']/decorations/decoration[@type='block' and @blockname='rock04']/@prob">0.001</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='desert']/subbiome[@prob='0.302']/decorations/decoration[@type='block' and @blockname='cntDesertRandomLootHelper']/@prob">0.00025</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='desert']/subbiome[@prob='0.302']/decorations/decoration[@type='block' and @blockname='treeDeadPineLeaf']/@prob">0.020</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='desert']/subbiome[@prob='0.302']/decorations/decoration[@type='block' and @blockname='plantedYucca3Harvest']/@prob">0.002</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='desert']/subbiome[@prob='0.302']/decorations/decoration[@type='block' and @blockname='plantedAloe3Harvest']/@prob">0.003</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='desert']/subbiome[@prob='0.302']/decorations/decoration[@type='block' and @blockname='treeDesertShrub']/@prob">0.05</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='desert']/subbiome[@prob='0.302']/decorations/decoration[@type='block' and @blockname='driftwood']/@prob">0.001</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='desert']/subbiome[@prob='0.302']/decorations/decoration[@type='block' and @blockname='driftwood2']/@prob">0.001</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='desert']/subbiome[@prob='0.302']/decorations/decoration[@type='block' and @blockname='cntBirdnest']/@prob">0.001</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='desert']/subbiome[@prob='0.302']/decorations/decoration[@type='block' and @blockname='decoCowSkull']/@prob">0.00015</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='desert']/subbiome[@prob='0.302']/decorations/decoration[@type='block' and @blockname='treeCactus06']/@prob">0.0009</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='desert']/subbiome[@prob='0.302']/decorations/decoration[@type='block' and @blockname='treeBrownGrassDiagonal']/@prob">0.00025</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='desert']/subbiome[@prob='0.302']/decorations/decoration[@type='block' and @blockname='treeOakMed01']/@prob">0.0003</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='desert']/subbiome[@prob='0.302']/decorations/decoration[@type='block' and @blockname='treeOakSml01']/@prob">0.002</set>
+
+	<set xpath="/worldgeneration/biomes/biome[@name='desert']/subbiome[@prob='0.312']/decorations/decoration[@type='prefab' and @name='deco_nitrate_vein']/@prob">0.00157</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='desert']/subbiome[@prob='0.312']/decorations/decoration[@type='block' and @blockname='rockResource']/@prob">0.00033</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='desert']/subbiome[@prob='0.312']/decorations/decoration[@type='block' and @blockname='rockResource02']/@prob">0.00033</set>	
+	<set xpath="/worldgeneration/biomes/biome[@name='desert']/subbiome[@prob='0.312']/decorations/decoration[@type='block' and @blockname='treeCactus01']/@prob">0.004</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='desert']/subbiome[@prob='0.312']/decorations/decoration[@type='block' and @blockname='treeCactus02']/@prob">0.004</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='desert']/subbiome[@prob='0.312']/decorations/decoration[@type='block' and @blockname='treeCactus03']/@prob">0.004</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='desert']/subbiome[@prob='0.312']/decorations/decoration[@type='block' and @blockname='treeCactus04']/@prob">0.004</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='desert']/subbiome[@prob='0.312']/decorations/decoration[@type='block' and @blockname='treeCactus05']/@prob">0.004</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='desert']/subbiome[@prob='0.312']/decorations/decoration[@type='block' and @blockname='rock01']/@prob">0.001</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='desert']/subbiome[@prob='0.312']/decorations/decoration[@type='block' and @blockname='rock02']/@prob">0.001</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='desert']/subbiome[@prob='0.312']/decorations/decoration[@type='block' and @blockname='rock04']/@prob">0.001</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='desert']/subbiome[@prob='0.312']/decorations/decoration[@type='block' and @blockname='cntDesertRandomLootHelper']/@prob">0.00025</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='desert']/subbiome[@prob='0.312']/decorations/decoration[@type='block' and @blockname='treeDeadPineLeaf']/@prob">0.020</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='desert']/subbiome[@prob='0.312']/decorations/decoration[@type='block' and @blockname='plantedYucca3Harvest']/@prob">0.002</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='desert']/subbiome[@prob='0.312']/decorations/decoration[@type='block' and @blockname='plantedAloe3Harvest']/@prob">0.003</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='desert']/subbiome[@prob='0.312']/decorations/decoration[@type='block' and @blockname='treeDesertShrub']/@prob">0.05</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='desert']/subbiome[@prob='0.312']/decorations/decoration[@type='block' and @blockname='driftwood']/@prob">0.001</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='desert']/subbiome[@prob='0.312']/decorations/decoration[@type='block' and @blockname='driftwood2']/@prob">0.001</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='desert']/subbiome[@prob='0.312']/decorations/decoration[@type='block' and @blockname='cntBirdnest']/@prob">0.001</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='desert']/subbiome[@prob='0.312']/decorations/decoration[@type='block' and @blockname='decoCowSkull']/@prob">0.00015</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='desert']/subbiome[@prob='0.312']/decorations/decoration[@type='block' and @blockname='treeCactus06']/@prob">0.0009</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='desert']/subbiome[@prob='0.312']/decorations/decoration[@type='block' and @blockname='treeBrownGrassDiagonal']/@prob">0.00025</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='desert']/subbiome[@prob='0.312']/decorations/decoration[@type='block' and @blockname='treeOakMed01']/@prob">0.0003</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='desert']/subbiome[@prob='0.312']/decorations/decoration[@type='block' and @blockname='treeOakSml01']/@prob">0.002</set>
+	
+	<set xpath="/worldgeneration/biomes/biome[@name='desert']/subbiome[@prob='0.342']/decorations/decoration[@type='prefab' and @name='deco_lead_vein']/@prob">0.00157</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='desert']/subbiome[@prob='0.342']/decorations/decoration[@type='block' and @blockname='rockResource']/@prob">0.00033</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='desert']/subbiome[@prob='0.342']/decorations/decoration[@type='block' and @blockname='rockResource02']/@prob">0.00033</set>	
+	<set xpath="/worldgeneration/biomes/biome[@name='desert']/subbiome[@prob='0.342']/decorations/decoration[@type='block' and @blockname='treeCactus01']/@prob">0.004</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='desert']/subbiome[@prob='0.342']/decorations/decoration[@type='block' and @blockname='treeCactus02']/@prob">0.004</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='desert']/subbiome[@prob='0.342']/decorations/decoration[@type='block' and @blockname='treeCactus03']/@prob">0.004</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='desert']/subbiome[@prob='0.342']/decorations/decoration[@type='block' and @blockname='treeCactus04']/@prob">0.004</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='desert']/subbiome[@prob='0.342']/decorations/decoration[@type='block' and @blockname='treeCactus05']/@prob">0.004</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='desert']/subbiome[@prob='0.342']/decorations/decoration[@type='block' and @blockname='rock01']/@prob">0.001</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='desert']/subbiome[@prob='0.342']/decorations/decoration[@type='block' and @blockname='rock02']/@prob">0.001</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='desert']/subbiome[@prob='0.342']/decorations/decoration[@type='block' and @blockname='rock04']/@prob">0.001</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='desert']/subbiome[@prob='0.342']/decorations/decoration[@type='block' and @blockname='cntDesertRandomLootHelper']/@prob">0.00025</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='desert']/subbiome[@prob='0.342']/decorations/decoration[@type='block' and @blockname='treeDeadPineLeaf']/@prob">0.020</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='desert']/subbiome[@prob='0.342']/decorations/decoration[@type='block' and @blockname='plantedYucca3Harvest']/@prob">0.002</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='desert']/subbiome[@prob='0.342']/decorations/decoration[@type='block' and @blockname='plantedAloe3Harvest']/@prob">0.003</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='desert']/subbiome[@prob='0.342']/decorations/decoration[@type='block' and @blockname='treeDesertShrub']/@prob">0.05</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='desert']/subbiome[@prob='0.342']/decorations/decoration[@type='block' and @blockname='driftwood']/@prob">0.001</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='desert']/subbiome[@prob='0.342']/decorations/decoration[@type='block' and @blockname='driftwood2']/@prob">0.001</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='desert']/subbiome[@prob='0.342']/decorations/decoration[@type='block' and @blockname='cntBirdnest']/@prob">0.001</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='desert']/subbiome[@prob='0.342']/decorations/decoration[@type='block' and @blockname='decoCowSkull']/@prob">0.00015</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='desert']/subbiome[@prob='0.342']/decorations/decoration[@type='block' and @blockname='treeCactus06']/@prob">0.0009</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='desert']/subbiome[@prob='0.342']/decorations/decoration[@type='block' and @blockname='treeBrownGrassDiagonal']/@prob">0.00025</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='desert']/subbiome[@prob='0.342']/decorations/decoration[@type='block' and @blockname='treeOakMed01']/@prob">0.0003</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='desert']/subbiome[@prob='0.342']/decorations/decoration[@type='block' and @blockname='treeOakSml01']/@prob">0.002</set>
+
+	<set xpath="/worldgeneration/biomes/biome[@name='desert']/decorations/decoration[@type='prefab' and @name='deco_iron_vein']/@prob">0.00157</set>	
+	<set xpath="/worldgeneration/biomes/biome[@name='desert']/decorations/decoration[@type='block' and @blockname='rockResource']/@prob">0.00033</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='desert']/decorations/decoration[@type='block' and @blockname='rockResource02']/@prob">0.00033</set>	
+	<set xpath="/worldgeneration/biomes/biome[@name='desert']/decorations/decoration[@type='block' and @blockname='treeCactus01']/@prob">0.004</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='desert']/decorations/decoration[@type='block' and @blockname='treeCactus02']/@prob">0.004</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='desert']/decorations/decoration[@type='block' and @blockname='treeCactus03']/@prob">0.004</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='desert']/decorations/decoration[@type='block' and @blockname='treeCactus04']/@prob">0.004</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='desert']/decorations/decoration[@type='block' and @blockname='treeCactus05']/@prob">0.004</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='desert']/decorations/decoration[@type='block' and @blockname='rock01']/@prob">0.001</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='desert']/decorations/decoration[@type='block' and @blockname='rock02']/@prob">0.001</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='desert']/decorations/decoration[@type='block' and @blockname='rock04']/@prob">0.001</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='desert']/decorations/decoration[@type='block' and @blockname='cntDesertRandomLootHelper']/@prob">0.00025</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='desert']/decorations/decoration[@type='block' and @blockname='treeDeadPineLeaf']/@prob">0.020</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='desert']/decorations/decoration[@type='block' and @blockname='plantedYucca3Harvest']/@prob">0.002</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='desert']/decorations/decoration[@type='block' and @blockname='plantedAloe3Harvest']/@prob">0.003</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='desert']/decorations/decoration[@type='block' and @blockname='treeDesertShrub']/@prob">0.05</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='desert']/decorations/decoration[@type='block' and @blockname='driftwood']/@prob">0.001</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='desert']/decorations/decoration[@type='block' and @blockname='driftwood2']/@prob">0.001</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='desert']/decorations/decoration[@type='block' and @blockname='cntBirdnest']/@prob">0.001</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='desert']/decorations/decoration[@type='block' and @blockname='decoCowSkull']/@prob">0.00015</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='desert']/decorations/decoration[@type='block' and @blockname='treeCactus06']/@prob">0.0009</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='desert']/decorations/decoration[@type='block' and @blockname='treeBrownGrassDiagonal']/@prob">0.00025</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='desert']/decorations/decoration[@type='block' and @blockname='treeOakMed01']/@prob">0.0003</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='desert']/decorations/decoration[@type='block' and @blockname='treeOakSml01']/@prob">0.002</set>
+	
+
+	<set xpath="/worldgeneration/biomes/biome[@name='water']/subbiome[@prob='0.292']/decorations/decoration[@type='prefab' and @name='deco_coal_vein']/@prob">0.00157</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='water']/subbiome[@prob='0.292']/decorations/decoration[@type='block' and @blockname='rockResource']/@prob">0.00033</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='water']/subbiome[@prob='0.292']/decorations/decoration[@type='block' and @blockname='rockResource02']/@prob">0.00033</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='water']/subbiome[@prob='0.292']/decorations/decoration[@type='block' and @blockname='treeAzalea']/@prob">0.003</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='water']/subbiome[@prob='0.292']/decorations/decoration[@type='block' and @blockname='cntStreetRandomLootHelper']/@prob">0.0007</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='water']/subbiome[@prob='0.292']/decorations/decoration[@type='block' and @blockname='rock01']/@prob">0.001</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='water']/subbiome[@prob='0.292']/decorations/decoration[@type='block' and @blockname='rock02']/@prob">0.005</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='water']/subbiome[@prob='0.292']/decorations/decoration[@type='block' and @blockname='rock04']/@prob">0.001</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='water']/subbiome[@prob='0.292']/decorations/decoration[@type='block' and @blockname='driftwood']/@prob">0.001</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='water']/subbiome[@prob='0.292']/decorations/decoration[@type='block' and @blockname='driftwood2']/@prob">0.01</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='water']/subbiome[@prob='0.292']/decorations/decoration[@type='block' and @blockname='cinderBlocks01']/@prob">0.001</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='water']/subbiome[@prob='0.292']/decorations/decoration[@type='block' and @blockname='treeMountainPineDry21m']/@prob">0.005</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='water']/subbiome[@prob='0.292']/decorations/decoration[@type='block' and @blockname='treeDeadPineLeaf']/@prob">0.005</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='water']/subbiome[@prob='0.292']/decorations/decoration[@type='block' and @blockname='treeDeadTree02']/@prob">0.005</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='water']/subbiome[@prob='0.292']/decorations/decoration[@type='block' and @blockname='treeDeadPineLeaf']/@prob">0.001</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='water']/subbiome[@prob='0.292']/decorations/decoration[@type='block' and @blockname='carsRandomHelper']/@prob">0.001</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='water']/subbiome[@prob='0.292']/decorations/decoration[@type='block' and @blockname='treeBrownGrassDiagonal']/@prob">0.15</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='water']/subbiome[@prob='0.292']/decorations/decoration[@type='block' and @blockname='treeTallGrassDiagonal']/@prob">0.35</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='water']/subbiome[@prob='0.292']/decorations/decoration[@type='block' and @blockname='treeTallGrassDiagonal']/@prob">0.1</set>
+
+	<set xpath="/worldgeneration/biomes/biome[@name='water']/subbiome[@prob='0.312']/decorations/decoration[@type='prefab' and @name='deco_nitrate_vein']/@prob">0.00157</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='water']/subbiome[@prob='0.312']/decorations/decoration[@type='block' and @blockname='rockResource']/@prob">0.00033</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='water']/subbiome[@prob='0.312']/decorations/decoration[@type='block' and @blockname='rockResource02']/@prob">0.00033</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='water']/subbiome[@prob='0.312']/decorations/decoration[@type='block' and @blockname='treeAzalea']/@prob">0.003</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='water']/subbiome[@prob='0.312']/decorations/decoration[@type='block' and @blockname='cntStreetRandomLootHelper']/@prob">0.0007</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='water']/subbiome[@prob='0.312']/decorations/decoration[@type='block' and @blockname='rock01']/@prob">0.001</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='water']/subbiome[@prob='0.312']/decorations/decoration[@type='block' and @blockname='rock02']/@prob">0.005</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='water']/subbiome[@prob='0.312']/decorations/decoration[@type='block' and @blockname='rock04']/@prob">0.001</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='water']/subbiome[@prob='0.312']/decorations/decoration[@type='block' and @blockname='driftwood']/@prob">0.001</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='water']/subbiome[@prob='0.312']/decorations/decoration[@type='block' and @blockname='driftwood2']/@prob">0.01</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='water']/subbiome[@prob='0.312']/decorations/decoration[@type='block' and @blockname='cinderBlocks01']/@prob">0.001</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='water']/subbiome[@prob='0.312']/decorations/decoration[@type='block' and @blockname='treeMountainPineDry21m']/@prob">0.005</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='water']/subbiome[@prob='0.312']/decorations/decoration[@type='block' and @blockname='treeDeadPineLeaf']/@prob">0.005</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='water']/subbiome[@prob='0.312']/decorations/decoration[@type='block' and @blockname='treeDeadTree02']/@prob">0.005</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='water']/subbiome[@prob='0.312']/decorations/decoration[@type='block' and @blockname='treeDeadPineLeaf']/@prob">0.001</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='water']/subbiome[@prob='0.312']/decorations/decoration[@type='block' and @blockname='carsRandomHelper']/@prob">0.001</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='water']/subbiome[@prob='0.312']/decorations/decoration[@type='block' and @blockname='treeBrownGrassDiagonal']/@prob">0.15</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='water']/subbiome[@prob='0.312']/decorations/decoration[@type='block' and @blockname='treeTallGrassDiagonal']/@prob">0.35</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='water']/subbiome[@prob='0.312']/decorations/decoration[@type='block' and @blockname='treeTallGrassDiagonal']/@prob">0.1</set>
+	
+	<set xpath="/worldgeneration/biomes/biome[@name='water']/subbiome[@prob='0.342']/decorations/decoration[@type='prefab' and @name='deco_lead_vein']/@prob">0.00157</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='water']/subbiome[@prob='0.342']/decorations/decoration[@type='block' and @blockname='rockResource']/@prob">0.00033</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='water']/subbiome[@prob='0.342']/decorations/decoration[@type='block' and @blockname='rockResource02']/@prob">0.00033</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='water']/subbiome[@prob='0.342']/decorations/decoration[@type='block' and @blockname='treeAzalea']/@prob">0.003</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='water']/subbiome[@prob='0.342']/decorations/decoration[@type='block' and @blockname='cntStreetRandomLootHelper']/@prob">0.0007</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='water']/subbiome[@prob='0.342']/decorations/decoration[@type='block' and @blockname='rock01']/@prob">0.001</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='water']/subbiome[@prob='0.342']/decorations/decoration[@type='block' and @blockname='rock02']/@prob">0.005</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='water']/subbiome[@prob='0.342']/decorations/decoration[@type='block' and @blockname='rock04']/@prob">0.001</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='water']/subbiome[@prob='0.342']/decorations/decoration[@type='block' and @blockname='driftwood']/@prob">0.001</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='water']/subbiome[@prob='0.342']/decorations/decoration[@type='block' and @blockname='driftwood2']/@prob">0.01</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='water']/subbiome[@prob='0.342']/decorations/decoration[@type='block' and @blockname='cinderBlocks01']/@prob">0.001</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='water']/subbiome[@prob='0.342']/decorations/decoration[@type='block' and @blockname='treeMountainPineDry21m']/@prob">0.005</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='water']/subbiome[@prob='0.342']/decorations/decoration[@type='block' and @blockname='treeDeadPineLeaf']/@prob">0.005</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='water']/subbiome[@prob='0.342']/decorations/decoration[@type='block' and @blockname='treeDeadTree02']/@prob">0.005</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='water']/subbiome[@prob='0.342']/decorations/decoration[@type='block' and @blockname='treeDeadPineLeaf']/@prob">0.001</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='water']/subbiome[@prob='0.342']/decorations/decoration[@type='block' and @blockname='carsRandomHelper']/@prob">0.001</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='water']/subbiome[@prob='0.342']/decorations/decoration[@type='block' and @blockname='treeBrownGrassDiagonal']/@prob">0.15</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='water']/subbiome[@prob='0.342']/decorations/decoration[@type='block' and @blockname='treeTallGrassDiagonal']/@prob">0.35</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='water']/subbiome[@prob='0.342']/decorations/decoration[@type='block' and @blockname='treeTallGrassDiagonal']/@prob">0.1</set>
+
+	<set xpath="/worldgeneration/biomes/biome[@name='water']/decorations/decoration[@type='prefab' and @name='deco_iron_vein']/@prob">0.00157</set>	
+	<set xpath="/worldgeneration/biomes/biome[@name='water']/decorations/decoration[@type='block' and @blockname='rockResource']/@prob">0.00033</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='water']/decorations/decoration[@type='block' and @blockname='rockResource02']/@prob">0.00033</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='water']/decorations/decoration[@type='block' and @blockname='treeAzalea']/@prob">0.003</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='water']/decorations/decoration[@type='block' and @blockname='cntStreetRandomLootHelper']/@prob">0.0007</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='water']/decorations/decoration[@type='block' and @blockname='rock01']/@prob">0.001</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='water']/decorations/decoration[@type='block' and @blockname='rock02']/@prob">0.005</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='water']/decorations/decoration[@type='block' and @blockname='rock04']/@prob">0.001</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='water']/decorations/decoration[@type='block' and @blockname='driftwood']/@prob">0.001</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='water']/decorations/decoration[@type='block' and @blockname='driftwood2']/@prob">0.01</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='water']/decorations/decoration[@type='block' and @blockname='cinderBlocks01']/@prob">0.001</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='water']/decorations/decoration[@type='block' and @blockname='treeMountainPineDry21m']/@prob">0.005</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='water']/decorations/decoration[@type='block' and @blockname='treeDeadPineLeaf']/@prob">0.005</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='water']/decorations/decoration[@type='block' and @blockname='treeDeadTree02']/@prob">0.005</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='water']/decorations/decoration[@type='block' and @blockname='treeDeadPineLeaf']/@prob">0.001</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='water']/decorations/decoration[@type='block' and @blockname='carsRandomHelper']/@prob">0.001</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='water']/decorations/decoration[@type='block' and @blockname='treeBrownGrassDiagonal']/@prob">0.15</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='water']/decorations/decoration[@type='block' and @blockname='treeTallGrassDiagonal']/@prob">0.35</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='water']/decorations/decoration[@type='block' and @blockname='treeTallGrassDiagonal']/@prob">0.1</set>
+	
+	
+	<set xpath="/worldgeneration/biomes/biome[@name='underwater']/decorations/decoration[@type='block' and @blockname='rockResource']/@prob">0.0002</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='underwater']/decorations/decoration[@type='block' and @blockname='rockResourceBroke1']/@prob">0.0002</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='underwater']/decorations/decoration[@type='block' and @blockname='rockResourceBroke2']/@prob">0.0001</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='underwater']/decorations/decoration[@type='block' and @blockname='rockResource02']/@prob">0.0002</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='underwater']/decorations/decoration[@type='block' and @blockname='rockResource02Broke1']/@prob">0.0002</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='underwater']/decorations/decoration[@type='block' and @blockname='rockResource02Broke2']/@prob">0.0001</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='underwater']/decorations/decoration[@type='block' and @blockname='driftwood']/@prob">0.001</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='underwater']/decorations/decoration[@type='block' and @blockname='driftwood2']/@prob">0.001</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='underwater']/decorations/decoration[@type='block' and @blockname='cinderBlocks01']/@prob">0.0001</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='underwater']/decorations/decoration[@type='block' and @blockname='decoCarTireSmallFlat']/@prob">0.0005</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='underwater']/decorations/decoration[@type='block' and @blockname='hubcapNoMine']/@prob">0.0005</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='underwater']/decorations/decoration[@type='block' and @blockname='carWrecksRandomHelper']/@prob">0.001</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='underwater']/decorations/decoration[@type='block' and @blockname='treeDesertShrub']/@prob">0.04</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='underwater']/decorations/decoration[@type='block' and @blockname='treeBrownGrassDiagonal']/@prob">0.04</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='underwater']/decorations/decoration[@type='block' and @blockname='treeGreenBrownGrassDiagonal']/@prob">0.06</set>
+
+	
+	<set xpath="/worldgeneration/biomes/biome[@name='wasteland']/subbiome[@prob='0.1']/decorations/decoration[@type='prefab' and @name='deco_iron_vein']/@prob">0.00157</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='wasteland']/subbiome[@prob='0.1']/decorations/decoration[@type='block' and @blockname='rockResource']/@prob">0.00033</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='wasteland']/subbiome[@prob='0.1']/decorations/decoration[@type='block' and @blockname='rockResource02']/@prob">0.00033</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='wasteland']/subbiome[@prob='0.1']/decorations/decoration[@type='block' and @blockname='carsRandomHelper']/@prob">0.001</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='wasteland']/subbiome[@prob='0.1']/decorations/decoration[@type='block' and @blockname='rock01']/@prob">0.001</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='wasteland']/subbiome[@prob='0.1']/decorations/decoration[@type='block' and @blockname='rock02']/@prob">0.005</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='wasteland']/subbiome[@prob='0.1']/decorations/decoration[@type='block' and @blockname='rock04']/@prob">0.001</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='wasteland']/subbiome[@prob='0.1']/decorations/decoration[@type='block' and @blockname='driftwood']/@prob">0.001</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='wasteland']/subbiome[@prob='0.1']/decorations/decoration[@type='block' and @blockname='driftwood2']/@prob">0.01</set>
+	
+	<set xpath="/worldgeneration/biomes/biome[@name='wasteland']/subbiome[@prob='0.292']/decorations/decoration[@type='prefab' and @name='deco_coal_vein']/@prob">0.00157</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='wasteland']/subbiome[@prob='0.292']/decorations/decoration[@type='block' and @blockname='treePineBurntLrg']/@prob">0.03</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='wasteland']/subbiome[@prob='0.292']/decorations/decoration[@type='block' and @blockname='treePineBurntMed']/@prob">0.03</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='wasteland']/subbiome[@prob='0.292']/decorations/decoration[@type='block' and @blockname='treePineBurntFullMed']/@prob">0.03</set>	
+	<set xpath="/worldgeneration/biomes/biome[@name='wasteland']/subbiome[@prob='0.292']/decorations/decoration[@type='block' and @blockname='rockResource']/@prob">0.00033</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='wasteland']/subbiome[@prob='0.292']/decorations/decoration[@type='block' and @blockname='rockResource02']/@prob">0.00033</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='wasteland']/subbiome[@prob='0.292']/decorations/decoration[@type='block' and @blockname='cntWastelandRandomLootHelper']/@prob">0.00025</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='wasteland']/subbiome[@prob='0.292']/decorations/decoration[@type='block' and @blockname='treeDeadPineLeaf']/@prob">0.010</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='wasteland']/subbiome[@prob='0.292']/decorations/decoration[@type='block' and @blockname='scrapMetalPile']/@prob">0.015</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='wasteland']/subbiome[@prob='0.292']/decorations/decoration[@type='block' and @blockname='brickDestroyedBlock01']/@prob">0.0004</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='wasteland']/subbiome[@prob='0.292']/decorations/decoration[@type='block' and @blockname='brickDestroyedBlock02']/@prob">0.0004</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='wasteland']/subbiome[@prob='0.292']/decorations/decoration[@type='block' and @blockname='brickDestroyedBlock03']/@prob">0.0004</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='wasteland']/subbiome[@prob='0.292']/decorations/decoration[@type='block' and @blockname='rock01']/@prob">0.004</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='wasteland']/subbiome[@prob='0.292']/decorations/decoration[@type='block' and @blockname='rock02']/@prob">0.004</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='wasteland']/subbiome[@prob='0.292']/decorations/decoration[@type='block' and @blockname='rock04']/@prob">0.004</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='wasteland']/subbiome[@prob='0.292']/decorations/decoration[@type='block' and @blockname='cntBirdnest']/@prob">0.001</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='wasteland']/subbiome[@prob='0.292']/decorations/decoration[@type='block' and @blockname='cinderBlocks01']/@prob">0.006</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='wasteland']/subbiome[@prob='0.292']/decorations/decoration[@type='block' and @blockname='cinderBlocks02']/@prob">0.006</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='wasteland']/subbiome[@prob='0.292']/decorations/decoration[@type='block' and @blockname='cinderBlocks03']/@prob">0.006</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='wasteland']/subbiome[@prob='0.292']/decorations/decoration[@type='block' and @blockname='treeBurntMaple01']/@prob">0.0012</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='wasteland']/subbiome[@prob='0.292']/decorations/decoration[@type='block' and @blockname='treeBurntMaple02']/@prob">0.0012</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='wasteland']/subbiome[@prob='0.292']/decorations/decoration[@type='block' and @blockname='treeBurntMaple03']/@prob">0.0012</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='wasteland']/subbiome[@prob='0.292']/decorations/decoration[@type='block' and @blockname='treePineBurntLrg']/@prob">0.0006</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='wasteland']/subbiome[@prob='0.292']/decorations/decoration[@type='block' and @blockname='treeDeadPineLeaf']/@prob">0.001</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='wasteland']/subbiome[@prob='0.292']/decorations/decoration[@type='block' and @blockname='treeDeadTree02']/@prob">0.002</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='wasteland']/subbiome[@prob='0.292']/decorations/decoration[@type='block' and @blockname='treeDeadPineLeaf']/@prob">0.010</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='wasteland']/subbiome[@prob='0.292']/decorations/decoration[@type='prefab' and @name='deco_remnant_stone_01']/@prob">0.003</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='wasteland']/subbiome[@prob='0.292']/decorations/decoration[@type='prefab' and @name='deco_remnant_stone_02']/@prob">0.003</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='wasteland']/subbiome[@prob='0.292']/decorations/decoration[@type='prefab' and @name='deco_remnant_stone_03']/@prob">0.003</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='wasteland']/subbiome[@prob='0.292']/decorations/decoration[@type='prefab' and @name='deco_remnant_stone_04']/@prob">0.002</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='wasteland']/subbiome[@prob='0.292']/decorations/decoration[@type='prefab' and @name='deco_rubble_stone_01']/@prob">0.0065</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='wasteland']/subbiome[@prob='0.292']/decorations/decoration[@type='prefab' and @name='deco_rubble_stone_02']/@prob">0.0065</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='wasteland']/subbiome[@prob='0.292']/decorations/decoration[@type='prefab' and @name='deco_rubble_stone_03']/@prob">0.005</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='wasteland']/subbiome[@prob='0.292']/decorations/decoration[@type='prefab' and @name='deco_rubble_stone_04']/@prob">0.003</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='wasteland']/subbiome[@prob='0.292']/decorations/decoration[@type='prefab' and @name='deco_rubble_stone_05']/@prob">0.003</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='wasteland']/subbiome[@prob='0.292']/decorations/decoration[@type='block' and @blockname='carWrecksRandomHelper']/@prob">0.0005</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='wasteland']/subbiome[@prob='0.292']/decorations/decoration[@type='block' and @blockname='treeBrownGrassDiagonal']/@prob">0.05</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='wasteland']/subbiome[@prob='0.292']/decorations/decoration[@type='block' and @blockname='mineCandyTin']/@prob">0.00015</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='wasteland']/subbiome[@prob='0.292']/decorations/decoration[@type='block' and @blockname='mineHubcap']/@prob">0.0001</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='wasteland']/subbiome[@prob='0.292']/decorations/decoration[@type='block' and @blockname='hubcapNoMine']/@prob">0.0011</set>
+
+	<set xpath="/worldgeneration/biomes/biome[@name='wasteland']/subbiome[@prob='0.312']/decorations/decoration[@type='prefab' and @name='deco_nitrate_vein']/@prob">0.00157</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='wasteland']/subbiome[@prob='0.312']/decorations/decoration[@type='block' and @blockname='treePineBurntLrg']/@prob">0.03</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='wasteland']/subbiome[@prob='0.312']/decorations/decoration[@type='block' and @blockname='treePineBurntMed']/@prob">0.03</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='wasteland']/subbiome[@prob='0.312']/decorations/decoration[@type='block' and @blockname='treePineBurntFullMed']/@prob">0.03</set>	
+	<set xpath="/worldgeneration/biomes/biome[@name='wasteland']/subbiome[@prob='0.312']/decorations/decoration[@type='block' and @blockname='rockResource']/@prob">0.00033</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='wasteland']/subbiome[@prob='0.312']/decorations/decoration[@type='block' and @blockname='rockResource02']/@prob">0.00033</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='wasteland']/subbiome[@prob='0.312']/decorations/decoration[@type='block' and @blockname='cntWastelandRandomLootHelper']/@prob">0.00025</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='wasteland']/subbiome[@prob='0.312']/decorations/decoration[@type='block' and @blockname='treeDeadPineLeaf']/@prob">0.010</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='wasteland']/subbiome[@prob='0.312']/decorations/decoration[@type='block' and @blockname='scrapMetalPile']/@prob">0.015</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='wasteland']/subbiome[@prob='0.312']/decorations/decoration[@type='block' and @blockname='brickDestroyedBlock01']/@prob">0.0004</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='wasteland']/subbiome[@prob='0.312']/decorations/decoration[@type='block' and @blockname='brickDestroyedBlock02']/@prob">0.0004</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='wasteland']/subbiome[@prob='0.312']/decorations/decoration[@type='block' and @blockname='brickDestroyedBlock03']/@prob">0.0004</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='wasteland']/subbiome[@prob='0.312']/decorations/decoration[@type='block' and @blockname='rock01']/@prob">0.004</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='wasteland']/subbiome[@prob='0.312']/decorations/decoration[@type='block' and @blockname='rock02']/@prob">0.004</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='wasteland']/subbiome[@prob='0.312']/decorations/decoration[@type='block' and @blockname='rock04']/@prob">0.004</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='wasteland']/subbiome[@prob='0.312']/decorations/decoration[@type='block' and @blockname='cntBirdnest']/@prob">0.001</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='wasteland']/subbiome[@prob='0.312']/decorations/decoration[@type='block' and @blockname='cinderBlocks01']/@prob">0.006</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='wasteland']/subbiome[@prob='0.312']/decorations/decoration[@type='block' and @blockname='cinderBlocks02']/@prob">0.006</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='wasteland']/subbiome[@prob='0.312']/decorations/decoration[@type='block' and @blockname='cinderBlocks03']/@prob">0.006</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='wasteland']/subbiome[@prob='0.312']/decorations/decoration[@type='block' and @blockname='treeBurntMaple01']/@prob">0.0012</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='wasteland']/subbiome[@prob='0.312']/decorations/decoration[@type='block' and @blockname='treeBurntMaple02']/@prob">0.0012</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='wasteland']/subbiome[@prob='0.312']/decorations/decoration[@type='block' and @blockname='treeBurntMaple03']/@prob">0.0012</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='wasteland']/subbiome[@prob='0.312']/decorations/decoration[@type='block' and @blockname='treePineBurntLrg']/@prob">0.0006</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='wasteland']/subbiome[@prob='0.312']/decorations/decoration[@type='block' and @blockname='treeDeadPineLeaf']/@prob">0.001</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='wasteland']/subbiome[@prob='0.312']/decorations/decoration[@type='block' and @blockname='treeDeadTree02']/@prob">0.002</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='wasteland']/subbiome[@prob='0.312']/decorations/decoration[@type='block' and @blockname='treeDeadPineLeaf']/@prob">0.010</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='wasteland']/subbiome[@prob='0.312']/decorations/decoration[@type='prefab' and @name='deco_remnant_stone_01']/@prob">0.003</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='wasteland']/subbiome[@prob='0.312']/decorations/decoration[@type='prefab' and @name='deco_remnant_stone_02']/@prob">0.003</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='wasteland']/subbiome[@prob='0.312']/decorations/decoration[@type='prefab' and @name='deco_remnant_stone_03']/@prob">0.003</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='wasteland']/subbiome[@prob='0.312']/decorations/decoration[@type='prefab' and @name='deco_remnant_stone_04']/@prob">0.002</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='wasteland']/subbiome[@prob='0.312']/decorations/decoration[@type='prefab' and @name='deco_rubble_stone_01']/@prob">0.0065</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='wasteland']/subbiome[@prob='0.312']/decorations/decoration[@type='prefab' and @name='deco_rubble_stone_02']/@prob">0.0065</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='wasteland']/subbiome[@prob='0.312']/decorations/decoration[@type='prefab' and @name='deco_rubble_stone_03']/@prob">0.005</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='wasteland']/subbiome[@prob='0.312']/decorations/decoration[@type='prefab' and @name='deco_rubble_stone_04']/@prob">0.003</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='wasteland']/subbiome[@prob='0.312']/decorations/decoration[@type='prefab' and @name='deco_rubble_stone_05']/@prob">0.003</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='wasteland']/subbiome[@prob='0.312']/decorations/decoration[@type='block' and @blockname='carWrecksRandomHelper']/@prob">0.0005</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='wasteland']/subbiome[@prob='0.312']/decorations/decoration[@type='block' and @blockname='treeBrownGrassDiagonal']/@prob">0.05</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='wasteland']/subbiome[@prob='0.312']/decorations/decoration[@type='block' and @blockname='mineCandyTin']/@prob">0.00015</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='wasteland']/subbiome[@prob='0.312']/decorations/decoration[@type='block' and @blockname='mineHubcap']/@prob">0.0001</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='wasteland']/subbiome[@prob='0.312']/decorations/decoration[@type='block' and @blockname='hubcapNoMine']/@prob">0.0011</set>
+
+	<set xpath="/worldgeneration/biomes/biome[@name='wasteland']/subbiome[@prob='0.342']/decorations/decoration[@type='prefab' and @name='deco_lead_vein']/@prob">0.00157</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='wasteland']/subbiome[@prob='0.342']/decorations/decoration[@type='block' and @blockname='treePineBurntLrg']/@prob">0.03</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='wasteland']/subbiome[@prob='0.342']/decorations/decoration[@type='block' and @blockname='treePineBurntMed']/@prob">0.03</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='wasteland']/subbiome[@prob='0.342']/decorations/decoration[@type='block' and @blockname='treePineBurntFullMed']/@prob">0.03</set>	
+	<set xpath="/worldgeneration/biomes/biome[@name='wasteland']/subbiome[@prob='0.342']/decorations/decoration[@type='block' and @blockname='rockResource']/@prob">0.00033</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='wasteland']/subbiome[@prob='0.342']/decorations/decoration[@type='block' and @blockname='rockResource02']/@prob">0.00033</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='wasteland']/subbiome[@prob='0.342']/decorations/decoration[@type='block' and @blockname='cntWastelandRandomLootHelper']/@prob">0.00025</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='wasteland']/subbiome[@prob='0.342']/decorations/decoration[@type='block' and @blockname='treeDeadPineLeaf']/@prob">0.010</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='wasteland']/subbiome[@prob='0.342']/decorations/decoration[@type='block' and @blockname='scrapMetalPile']/@prob">0.015</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='wasteland']/subbiome[@prob='0.342']/decorations/decoration[@type='block' and @blockname='brickDestroyedBlock01']/@prob">0.0004</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='wasteland']/subbiome[@prob='0.342']/decorations/decoration[@type='block' and @blockname='brickDestroyedBlock02']/@prob">0.0004</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='wasteland']/subbiome[@prob='0.342']/decorations/decoration[@type='block' and @blockname='brickDestroyedBlock03']/@prob">0.0004</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='wasteland']/subbiome[@prob='0.342']/decorations/decoration[@type='block' and @blockname='rock01']/@prob">0.004</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='wasteland']/subbiome[@prob='0.342']/decorations/decoration[@type='block' and @blockname='rock02']/@prob">0.004</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='wasteland']/subbiome[@prob='0.342']/decorations/decoration[@type='block' and @blockname='rock04']/@prob">0.004</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='wasteland']/subbiome[@prob='0.342']/decorations/decoration[@type='block' and @blockname='cntBirdnest']/@prob">0.001</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='wasteland']/subbiome[@prob='0.342']/decorations/decoration[@type='block' and @blockname='cinderBlocks01']/@prob">0.006</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='wasteland']/subbiome[@prob='0.342']/decorations/decoration[@type='block' and @blockname='cinderBlocks02']/@prob">0.006</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='wasteland']/subbiome[@prob='0.342']/decorations/decoration[@type='block' and @blockname='cinderBlocks03']/@prob">0.006</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='wasteland']/subbiome[@prob='0.342']/decorations/decoration[@type='block' and @blockname='treeBurntMaple01']/@prob">0.0012</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='wasteland']/subbiome[@prob='0.342']/decorations/decoration[@type='block' and @blockname='treeBurntMaple02']/@prob">0.0012</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='wasteland']/subbiome[@prob='0.342']/decorations/decoration[@type='block' and @blockname='treeBurntMaple03']/@prob">0.0012</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='wasteland']/subbiome[@prob='0.342']/decorations/decoration[@type='block' and @blockname='treePineBurntLrg']/@prob">0.0006</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='wasteland']/subbiome[@prob='0.342']/decorations/decoration[@type='block' and @blockname='treeDeadPineLeaf']/@prob">0.001</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='wasteland']/subbiome[@prob='0.342']/decorations/decoration[@type='block' and @blockname='treeDeadTree02']/@prob">0.002</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='wasteland']/subbiome[@prob='0.342']/decorations/decoration[@type='block' and @blockname='treeDeadPineLeaf']/@prob">0.010</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='wasteland']/subbiome[@prob='0.342']/decorations/decoration[@type='prefab' and @name='deco_remnant_stone_01']/@prob">0.003</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='wasteland']/subbiome[@prob='0.342']/decorations/decoration[@type='prefab' and @name='deco_remnant_stone_02']/@prob">0.003</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='wasteland']/subbiome[@prob='0.342']/decorations/decoration[@type='prefab' and @name='deco_remnant_stone_03']/@prob">0.003</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='wasteland']/subbiome[@prob='0.342']/decorations/decoration[@type='prefab' and @name='deco_remnant_stone_04']/@prob">0.002</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='wasteland']/subbiome[@prob='0.342']/decorations/decoration[@type='prefab' and @name='deco_rubble_stone_01']/@prob">0.0065</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='wasteland']/subbiome[@prob='0.342']/decorations/decoration[@type='prefab' and @name='deco_rubble_stone_02']/@prob">0.0065</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='wasteland']/subbiome[@prob='0.342']/decorations/decoration[@type='prefab' and @name='deco_rubble_stone_03']/@prob">0.005</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='wasteland']/subbiome[@prob='0.342']/decorations/decoration[@type='prefab' and @name='deco_rubble_stone_04']/@prob">0.003</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='wasteland']/subbiome[@prob='0.342']/decorations/decoration[@type='prefab' and @name='deco_rubble_stone_05']/@prob">0.003</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='wasteland']/subbiome[@prob='0.342']/decorations/decoration[@type='block' and @blockname='carWrecksRandomHelper']/@prob">0.0005</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='wasteland']/subbiome[@prob='0.342']/decorations/decoration[@type='block' and @blockname='treeBrownGrassDiagonal']/@prob">0.05</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='wasteland']/subbiome[@prob='0.342']/decorations/decoration[@type='block' and @blockname='mineCandyTin']/@prob">0.00015</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='wasteland']/subbiome[@prob='0.342']/decorations/decoration[@type='block' and @blockname='mineHubcap']/@prob">0.0001</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='wasteland']/subbiome[@prob='0.342']/decorations/decoration[@type='block' and @blockname='hubcapNoMine']/@prob">0.0011</set>
+	
+	<set xpath="/worldgeneration/biomes/biome[@name='wasteland']/decorations/decoration[@type='prefab' and @name='deco_iron_vein']/@prob">0.00157</set>	
+	<set xpath="/worldgeneration/biomes/biome[@name='wasteland']/decorations/decoration[@type='block' and @blockname='treePineBurntLrg']/@prob">0.03</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='wasteland']/decorations/decoration[@type='block' and @blockname='treePineBurntMed']/@prob">0.03</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='wasteland']/decorations/decoration[@type='block' and @blockname='treePineBurntFullMed']/@prob">0.03</set>	
+	<set xpath="/worldgeneration/biomes/biome[@name='wasteland']/decorations/decoration[@type='block' and @blockname='rockResource']/@prob">0.00033</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='wasteland']/decorations/decoration[@type='block' and @blockname='rockResource02']/@prob">0.00033</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='wasteland']/decorations/decoration[@type='block' and @blockname='cntWastelandRandomLootHelper']/@prob">0.00025</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='wasteland']/decorations/decoration[@type='block' and @blockname='treeDeadPineLeaf']/@prob">0.010</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='wasteland']/decorations/decoration[@type='block' and @blockname='scrapMetalPile']/@prob">0.015</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='wasteland']/decorations/decoration[@type='block' and @blockname='brickDestroyedBlock01']/@prob">0.0004</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='wasteland']/decorations/decoration[@type='block' and @blockname='brickDestroyedBlock02']/@prob">0.0004</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='wasteland']/decorations/decoration[@type='block' and @blockname='brickDestroyedBlock03']/@prob">0.0004</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='wasteland']/decorations/decoration[@type='block' and @blockname='rock01']/@prob">0.004</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='wasteland']/decorations/decoration[@type='block' and @blockname='rock02']/@prob">0.004</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='wasteland']/decorations/decoration[@type='block' and @blockname='rock04']/@prob">0.004</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='wasteland']/decorations/decoration[@type='block' and @blockname='cntBirdnest']/@prob">0.001</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='wasteland']/decorations/decoration[@type='block' and @blockname='cinderBlocks01']/@prob">0.006</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='wasteland']/decorations/decoration[@type='block' and @blockname='cinderBlocks02']/@prob">0.006</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='wasteland']/decorations/decoration[@type='block' and @blockname='cinderBlocks03']/@prob">0.006</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='wasteland']/decorations/decoration[@type='block' and @blockname='treeBurntMaple01']/@prob">0.0012</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='wasteland']/decorations/decoration[@type='block' and @blockname='treeBurntMaple02']/@prob">0.0012</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='wasteland']/decorations/decoration[@type='block' and @blockname='treeBurntMaple03']/@prob">0.0012</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='wasteland']/decorations/decoration[@type='block' and @blockname='treePineBurntLrg']/@prob">0.0006</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='wasteland']/decorations/decoration[@type='block' and @blockname='treeDeadPineLeaf']/@prob">0.001</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='wasteland']/decorations/decoration[@type='block' and @blockname='treeDeadTree02']/@prob">0.002</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='wasteland']/decorations/decoration[@type='block' and @blockname='treeDeadPineLeaf']/@prob">0.010</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='wasteland']/decorations/decoration[@type='prefab' and @name='deco_remnant_stone_01']/@prob">0.003</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='wasteland']/decorations/decoration[@type='prefab' and @name='deco_remnant_stone_02']/@prob">0.003</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='wasteland']/decorations/decoration[@type='prefab' and @name='deco_remnant_stone_03']/@prob">0.003</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='wasteland']/decorations/decoration[@type='prefab' and @name='deco_remnant_stone_04']/@prob">0.002</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='wasteland']/decorations/decoration[@type='prefab' and @name='deco_rubble_stone_01']/@prob">0.0065</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='wasteland']/decorations/decoration[@type='prefab' and @name='deco_rubble_stone_02']/@prob">0.0065</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='wasteland']/decorations/decoration[@type='prefab' and @name='deco_rubble_stone_03']/@prob">0.005</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='wasteland']/decorations/decoration[@type='prefab' and @name='deco_rubble_stone_04']/@prob">0.003</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='wasteland']/decorations/decoration[@type='prefab' and @name='deco_rubble_stone_05']/@prob">0.003</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='wasteland']/decorations/decoration[@type='block' and @blockname='carWrecksRandomHelper']/@prob">0.0005</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='wasteland']/decorations/decoration[@type='block' and @blockname='treeBrownGrassDiagonal']/@prob">0.05</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='wasteland']/decorations/decoration[@type='block' and @blockname='mineCandyTin']/@prob">0.00015</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='wasteland']/decorations/decoration[@type='block' and @blockname='mineHubcap']/@prob">0.0001</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='wasteland']/decorations/decoration[@type='block' and @blockname='hubcapNoMine']/@prob">0.0011</set>	
+	
+	
+	<set xpath="/worldgeneration/biomes/biome[@name='burnt_forest']/subbiome[@prob='0.02']/decorations/decoration[@type='prefab' and @name='deco_iron_vein']/@prob">0.00157</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='burnt_forest']/subbiome[@prob='0.02']/decorations/decoration[@type='block' and @blockname='rockResource']/@prob">0.00033</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='burnt_forest']/subbiome[@prob='0.02']/decorations/decoration[@type='block' and @blockname='rockResource02']/@prob">0.00033</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='burnt_forest']/subbiome[@prob='0.02']/decorations/decoration[@type='block' and @blockname='treeDeadTree02']/@prob">0.01</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='burnt_forest']/subbiome[@prob='0.02']/decorations/decoration[@type='block' and @blockname='cntTrashPile01']/@prob">0.007</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='burnt_forest']/subbiome[@prob='0.02']/decorations/decoration[@type='block' and @blockname='cntTrashPile08']/@prob">0.007</set>
+	
+	<set xpath="/worldgeneration/biomes/biome[@name='burnt_forest']/subbiome[@prob='0.04']/decorations/decoration[@type='prefab' and @name='deco_iron_vein']/@prob">0.00157</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='burnt_forest']/subbiome[@prob='0.04']/decorations/decoration[@type='block' and @blockname='treeDeadPineLeaf']/@prob">0.025</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='burnt_forest']/subbiome[@prob='0.04']/decorations/decoration[@type='block' and @blockname='treeDeadTree02']/@prob">0.06</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='burnt_forest']/subbiome[@prob='0.04']/decorations/decoration[@type='block' and @blockname='treeBrownGrassDiagonal']/@prob">0.4</set>
+
+	<set xpath="/worldgeneration/biomes/biome[@name='burnt_forest']/subbiome[@prob='0.292']/decorations/decoration[@type='prefab' and @name='deco_coal_vein']/@prob">0.00157</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='burnt_forest']/subbiome[@prob='0.292']/decorations/decoration[@type='block' and @blockname='rockResource']/@prob">0.00033</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='burnt_forest']/subbiome[@prob='0.292']/decorations/decoration[@type='block' and @blockname='rockResource02']/@prob">0.00033</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='burnt_forest']/subbiome[@prob='0.292']/decorations/decoration[@type='block' and @blockname='cntBurntForestRandomLootHelper']/@prob">0.00025</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='burnt_forest']/subbiome[@prob='0.292']/decorations/decoration[@type='block' and @blockname='rock01']/@prob">0.005</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='burnt_forest']/subbiome[@prob='0.292']/decorations/decoration[@type='block' and @blockname='rock02']/@prob">0.005</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='burnt_forest']/subbiome[@prob='0.292']/decorations/decoration[@type='block' and @blockname='rock04']/@prob">0.005</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='burnt_forest']/subbiome[@prob='0.292']/decorations/decoration[@type='block' and @blockname='cntBirdnest']/@prob">0.001</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='burnt_forest']/subbiome[@prob='0.292']/decorations/decoration[@type='block' and @blockname='treePineBurntLrg']/@prob">0.03</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='burnt_forest']/subbiome[@prob='0.292']/decorations/decoration[@type='block' and @blockname='treePineBurntMed']/@prob">0.03</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='burnt_forest']/subbiome[@prob='0.292']/decorations/decoration[@type='block' and @blockname='treePineBurntFullMed']/@prob">0.03</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='burnt_forest']/subbiome[@prob='0.292']/decorations/decoration[@type='block' and @blockname='treeBurntMaple01']/@prob">0.003</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='burnt_forest']/subbiome[@prob='0.292']/decorations/decoration[@type='block' and @blockname='treeBurntMaple02']/@prob">0.003</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='burnt_forest']/subbiome[@prob='0.292']/decorations/decoration[@type='block' and @blockname='treeBurntMaple03']/@prob">0.003</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='burnt_forest']/subbiome[@prob='0.292']/decorations/decoration[@type='block' and @blockname='treeDeadPineLeaf']/@prob">0.001</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='burnt_forest']/subbiome[@prob='0.292']/decorations/decoration[@type='block' and @blockname='treeDeadTree01']/@prob">0.002</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='burnt_forest']/subbiome[@prob='0.292']/decorations/decoration[@type='block' and @blockname='treeDeadTree02']/@prob">0.006</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='burnt_forest']/subbiome[@prob='0.292']/decorations/decoration[@type='prefab' and @name='deco_remnant_wood_01']/@prob">0.0009</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='burnt_forest']/subbiome[@prob='0.292']/decorations/decoration[@type='prefab' and @name='deco_remnant_wood_02']/@prob">0.0009</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='burnt_forest']/subbiome[@prob='0.292']/decorations/decoration[@type='block' and @blockname='emberPileDeco1']/@prob">0.001</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='burnt_forest']/subbiome[@prob='0.292']/decorations/decoration[@type='block' and @blockname='emberPileDeco2']/@prob">0.001</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='burnt_forest']/subbiome[@prob='0.292']/decorations/decoration[@type='block' and @blockname='emberPileDeco3']/@prob">0.01</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='burnt_forest']/subbiome[@prob='0.292']/decorations/decoration[@type='block' and @blockname='emberPileDeco4']/@prob">0.01</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='burnt_forest']/subbiome[@prob='0.292']/decorations/decoration[@type='block' and @blockname='treeBrownGrassDiagonal']/@prob">0.02</set>		
+	<set xpath="/worldgeneration/biomes/biome[@name='burnt_forest']/subbiome[@prob='0.292']/decorations/decoration[@type='block' and @blockname='treeStump']/@prob">0.0002</set>		
+	
+	<set xpath="/worldgeneration/biomes/biome[@name='burnt_forest']/subbiome[@prob='0.312']/decorations/decoration[@type='prefab' and @name='deco_nitrate_vein']/@prob">0.00157</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='burnt_forest']/subbiome[@prob='0.312']/decorations/decoration[@type='block' and @blockname='rockResource']/@prob">0.00033</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='burnt_forest']/subbiome[@prob='0.312']/decorations/decoration[@type='block' and @blockname='rockResource02']/@prob">0.00033</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='burnt_forest']/subbiome[@prob='0.312']/decorations/decoration[@type='block' and @blockname='cntBurntForestRandomLootHelper']/@prob">0.00025</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='burnt_forest']/subbiome[@prob='0.312']/decorations/decoration[@type='block' and @blockname='rock01']/@prob">0.005</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='burnt_forest']/subbiome[@prob='0.312']/decorations/decoration[@type='block' and @blockname='rock02']/@prob">0.005</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='burnt_forest']/subbiome[@prob='0.312']/decorations/decoration[@type='block' and @blockname='rock04']/@prob">0.005</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='burnt_forest']/subbiome[@prob='0.312']/decorations/decoration[@type='block' and @blockname='cntBirdnest']/@prob">0.001</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='burnt_forest']/subbiome[@prob='0.312']/decorations/decoration[@type='block' and @blockname='treePineBurntLrg']/@prob">0.03</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='burnt_forest']/subbiome[@prob='0.312']/decorations/decoration[@type='block' and @blockname='treePineBurntMed']/@prob">0.03</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='burnt_forest']/subbiome[@prob='0.312']/decorations/decoration[@type='block' and @blockname='treePineBurntFullMed']/@prob">0.03</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='burnt_forest']/subbiome[@prob='0.312']/decorations/decoration[@type='block' and @blockname='treeBurntMaple01']/@prob">0.003</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='burnt_forest']/subbiome[@prob='0.312']/decorations/decoration[@type='block' and @blockname='treeBurntMaple02']/@prob">0.003</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='burnt_forest']/subbiome[@prob='0.312']/decorations/decoration[@type='block' and @blockname='treeBurntMaple03']/@prob">0.003</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='burnt_forest']/subbiome[@prob='0.312']/decorations/decoration[@type='block' and @blockname='treeDeadPineLeaf']/@prob">0.001</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='burnt_forest']/subbiome[@prob='0.312']/decorations/decoration[@type='block' and @blockname='treeDeadTree01']/@prob">0.002</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='burnt_forest']/subbiome[@prob='0.312']/decorations/decoration[@type='block' and @blockname='treeDeadTree02']/@prob">0.006</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='burnt_forest']/subbiome[@prob='0.312']/decorations/decoration[@type='prefab' and @name='deco_remnant_wood_01']/@prob">0.0009</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='burnt_forest']/subbiome[@prob='0.312']/decorations/decoration[@type='prefab' and @name='deco_remnant_wood_02']/@prob">0.0009</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='burnt_forest']/subbiome[@prob='0.312']/decorations/decoration[@type='block' and @blockname='emberPileDeco1']/@prob">0.001</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='burnt_forest']/subbiome[@prob='0.312']/decorations/decoration[@type='block' and @blockname='emberPileDeco2']/@prob">0.001</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='burnt_forest']/subbiome[@prob='0.312']/decorations/decoration[@type='block' and @blockname='emberPileDeco3']/@prob">0.01</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='burnt_forest']/subbiome[@prob='0.312']/decorations/decoration[@type='block' and @blockname='emberPileDeco4']/@prob">0.01</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='burnt_forest']/subbiome[@prob='0.312']/decorations/decoration[@type='block' and @blockname='treeBrownGrassDiagonal']/@prob">0.02</set>		
+	<set xpath="/worldgeneration/biomes/biome[@name='burnt_forest']/subbiome[@prob='0.312']/decorations/decoration[@type='block' and @blockname='treeStump']/@prob">0.0002</set>		
+
+	<set xpath="/worldgeneration/biomes/biome[@name='burnt_forest']/subbiome[@prob='0.342']/decorations/decoration[@type='prefab' and @name='deco_lead_vein']/@prob">0.00157</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='burnt_forest']/subbiome[@prob='0.342']/decorations/decoration[@type='block' and @blockname='rockResource']/@prob">0.00033</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='burnt_forest']/subbiome[@prob='0.342']/decorations/decoration[@type='block' and @blockname='rockResource02']/@prob">0.00033</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='burnt_forest']/subbiome[@prob='0.342']/decorations/decoration[@type='block' and @blockname='cntBurntForestRandomLootHelper']/@prob">0.00025</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='burnt_forest']/subbiome[@prob='0.342']/decorations/decoration[@type='block' and @blockname='rock01']/@prob">0.005</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='burnt_forest']/subbiome[@prob='0.342']/decorations/decoration[@type='block' and @blockname='rock02']/@prob">0.005</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='burnt_forest']/subbiome[@prob='0.342']/decorations/decoration[@type='block' and @blockname='rock04']/@prob">0.005</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='burnt_forest']/subbiome[@prob='0.342']/decorations/decoration[@type='block' and @blockname='cntBirdnest']/@prob">0.001</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='burnt_forest']/subbiome[@prob='0.342']/decorations/decoration[@type='block' and @blockname='treePineBurntLrg']/@prob">0.03</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='burnt_forest']/subbiome[@prob='0.342']/decorations/decoration[@type='block' and @blockname='treePineBurntMed']/@prob">0.03</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='burnt_forest']/subbiome[@prob='0.342']/decorations/decoration[@type='block' and @blockname='treePineBurntFullMed']/@prob">0.03</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='burnt_forest']/subbiome[@prob='0.342']/decorations/decoration[@type='block' and @blockname='treeBurntMaple01']/@prob">0.003</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='burnt_forest']/subbiome[@prob='0.342']/decorations/decoration[@type='block' and @blockname='treeBurntMaple02']/@prob">0.003</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='burnt_forest']/subbiome[@prob='0.342']/decorations/decoration[@type='block' and @blockname='treeBurntMaple03']/@prob">0.003</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='burnt_forest']/subbiome[@prob='0.342']/decorations/decoration[@type='block' and @blockname='treeDeadPineLeaf']/@prob">0.001</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='burnt_forest']/subbiome[@prob='0.342']/decorations/decoration[@type='block' and @blockname='treeDeadTree01']/@prob">0.002</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='burnt_forest']/subbiome[@prob='0.342']/decorations/decoration[@type='block' and @blockname='treeDeadTree02']/@prob">0.006</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='burnt_forest']/subbiome[@prob='0.342']/decorations/decoration[@type='prefab' and @name='deco_remnant_wood_01']/@prob">0.0009</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='burnt_forest']/subbiome[@prob='0.342']/decorations/decoration[@type='prefab' and @name='deco_remnant_wood_02']/@prob">0.0009</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='burnt_forest']/subbiome[@prob='0.342']/decorations/decoration[@type='block' and @blockname='emberPileDeco1']/@prob">0.001</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='burnt_forest']/subbiome[@prob='0.342']/decorations/decoration[@type='block' and @blockname='emberPileDeco2']/@prob">0.001</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='burnt_forest']/subbiome[@prob='0.342']/decorations/decoration[@type='block' and @blockname='emberPileDeco3']/@prob">0.01</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='burnt_forest']/subbiome[@prob='0.342']/decorations/decoration[@type='block' and @blockname='emberPileDeco4']/@prob">0.01</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='burnt_forest']/subbiome[@prob='0.342']/decorations/decoration[@type='block' and @blockname='treeBrownGrassDiagonal']/@prob">0.02</set>		
+	<set xpath="/worldgeneration/biomes/biome[@name='burnt_forest']/subbiome[@prob='0.342']/decorations/decoration[@type='block' and @blockname='treeStump']/@prob">0.0002</set>		
+
+	<set xpath="/worldgeneration/biomes/biome[@name='burnt_forest']/decorations/decoration[@type='prefab' and @name='deco_iron_vein']/@prob">0.00157</set>	
+	<set xpath="/worldgeneration/biomes/biome[@name='burnt_forest']/decorations/decoration[@type='block' and @blockname='rockResource']/@prob">0.00033</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='burnt_forest']/decorations/decoration[@type='block' and @blockname='rockResource02']/@prob">0.00033</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='burnt_forest']/decorations/decoration[@type='block' and @blockname='cntBurntForestRandomLootHelper']/@prob">0.00025</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='burnt_forest']/decorations/decoration[@type='block' and @blockname='rock01']/@prob">0.005</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='burnt_forest']/decorations/decoration[@type='block' and @blockname='rock02']/@prob">0.005</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='burnt_forest']/decorations/decoration[@type='block' and @blockname='rock04']/@prob">0.005</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='burnt_forest']/decorations/decoration[@type='block' and @blockname='cntBirdnest']/@prob">0.001</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='burnt_forest']/decorations/decoration[@type='block' and @blockname='treePineBurntLrg']/@prob">0.03</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='burnt_forest']/decorations/decoration[@type='block' and @blockname='treePineBurntMed']/@prob">0.03</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='burnt_forest']/decorations/decoration[@type='block' and @blockname='treePineBurntFullMed']/@prob">0.03</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='burnt_forest']/decorations/decoration[@type='block' and @blockname='treeBurntMaple01']/@prob">0.003</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='burnt_forest']/decorations/decoration[@type='block' and @blockname='treeBurntMaple02']/@prob">0.003</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='burnt_forest']/decorations/decoration[@type='block' and @blockname='treeBurntMaple03']/@prob">0.003</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='burnt_forest']/decorations/decoration[@type='block' and @blockname='treeDeadPineLeaf']/@prob">0.001</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='burnt_forest']/decorations/decoration[@type='block' and @blockname='treeDeadTree01']/@prob">0.002</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='burnt_forest']/decorations/decoration[@type='block' and @blockname='treeDeadTree02']/@prob">0.006</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='burnt_forest']/decorations/decoration[@type='prefab' and @name='deco_remnant_wood_01']/@prob">0.0009</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='burnt_forest']/decorations/decoration[@type='prefab' and @name='deco_remnant_wood_02']/@prob">0.0009</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='burnt_forest']/decorations/decoration[@type='block' and @blockname='emberPileDeco1']/@prob">0.001</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='burnt_forest']/decorations/decoration[@type='block' and @blockname='emberPileDeco2']/@prob">0.001</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='burnt_forest']/decorations/decoration[@type='block' and @blockname='emberPileDeco3']/@prob">0.01</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='burnt_forest']/decorations/decoration[@type='block' and @blockname='emberPileDeco4']/@prob">0.01</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='burnt_forest']/decorations/decoration[@type='block' and @blockname='treeBrownGrassDiagonal']/@prob">0.02</set>		
+	<set xpath="/worldgeneration/biomes/biome[@name='burnt_forest']/decorations/decoration[@type='block' and @blockname='treeStump']/@prob">0.0002</set>	
+
+
+
+
+	
+	<set xpath="/worldgeneration/pois/poi[@name='City Asphalt']/decal[@texture='0']/@prob">0.0007</set>
+	<set xpath="/worldgeneration/pois/poi[@name='City Asphalt']/decal[@texture='1']/@prob">0.0007</set>
+	<set xpath="/worldgeneration/pois/poi[@name='City Asphalt']/decal[@texture='2']/@prob">0.0007</set>
+	<set xpath="/worldgeneration/pois/poi[@name='City Asphalt']/decal[@texture='3']/@prob">0.0007</set>
+	<set xpath="/worldgeneration/pois/poi[@name='City Asphalt']/decal[@texture='4']/@prob">0.0007</set>
+	<set xpath="/worldgeneration/pois/poi[@name='City Asphalt']/decal[@texture='5']/@prob">0.0007</set>
+	<set xpath="/worldgeneration/pois/poi[@name='City Asphalt']/decal[@texture='6']/@prob">0.0007</set>
+	<set xpath="/worldgeneration/pois/poi[@name='City Asphalt']/decal[@texture='7']/@prob">0.0007</set>
+	<set xpath="/worldgeneration/pois/poi[@name='City Asphalt']/decal[@texture='8']/@prob">0.0007</set>
+	<set xpath="/worldgeneration/pois/poi[@name='City Asphalt']/decal[@texture='11']/@prob">0.0007</set>
+	<set xpath="/worldgeneration/pois/poi[@name='City Asphalt']/decal[@texture='12']/@prob">0.0007</set>
+	<set xpath="/worldgeneration/pois/poi[@name='City Asphalt']/decal[@texture='13']/@prob">0.0007</set>
+	<set xpath="/worldgeneration/pois/poi[@name='City Asphalt']/decal[@texture='14']/@prob">0.0007</set>
+	<set xpath="/worldgeneration/pois/poi[@name='City Asphalt']/decal[@texture='15']/@prob">0.0007</set>
+	<set xpath="/worldgeneration/pois/poi[@name='City Asphalt']/blockontop[@blockname='cntStreetRandomLootHelper']/@prob">0.0004</set>
+	<set xpath="/worldgeneration/pois/poi[@name='City Asphalt']/blockontop[@blockname='carsRandomHelper']/@prob">0.0005</set>
+	<set xpath="/worldgeneration/pois/poi[@name='City Asphalt']/blockontop[@blockname='decoCarTireSmallFlat']/@prob">0.0005</set>
+	<set xpath="/worldgeneration/pois/poi[@name='City Asphalt']/blockontop[@blockname='cinderBlocks03']/@prob">0.0001</set>
+	<set xpath="/worldgeneration/pois/poi[@name='City Asphalt']/blockontop[@blockname='goreBlockAnimal']/@prob">0.0002</set>
+
+	<set xpath="/worldgeneration/pois/poi[@name='Country Road Asphalt']/decal[@texture='0']/@prob">0.0002</set>
+	<set xpath="/worldgeneration/pois/poi[@name='Country Road Asphalt']/decal[@texture='1']/@prob">0.0002</set>
+	<set xpath="/worldgeneration/pois/poi[@name='Country Road Asphalt']/decal[@texture='2']/@prob">0.0002</set>
+	<set xpath="/worldgeneration/pois/poi[@name='Country Road Asphalt']/decal[@texture='3']/@prob">0.0002</set>
+	<set xpath="/worldgeneration/pois/poi[@name='Country Road Asphalt']/decal[@texture='4']/@prob">0.0002</set>
+	<set xpath="/worldgeneration/pois/poi[@name='Country Road Asphalt']/decal[@texture='5']/@prob">0.0002</set>
+	<set xpath="/worldgeneration/pois/poi[@name='Country Road Asphalt']/decal[@texture='6']/@prob">0.0002</set>
+	<set xpath="/worldgeneration/pois/poi[@name='Country Road Asphalt']/decal[@texture='7']/@prob">0.0002</set>
+	<set xpath="/worldgeneration/pois/poi[@name='Country Road Asphalt']/decal[@texture='8']/@prob">0.0002</set>
+	<set xpath="/worldgeneration/pois/poi[@name='Country Road Asphalt']/decal[@texture='11']/@prob">0.0002</set>
+	<set xpath="/worldgeneration/pois/poi[@name='Country Road Asphalt']/decal[@texture='12']/@prob">0.0002</set>
+	<set xpath="/worldgeneration/pois/poi[@name='Country Road Asphalt']/decal[@texture='13']/@prob">0.0002</set>
+	<set xpath="/worldgeneration/pois/poi[@name='Country Road Asphalt']/decal[@texture='14']/@prob">0.0002</set>
+	<set xpath="/worldgeneration/pois/poi[@name='Country Road Asphalt']/decal[@texture='15']/@prob">0.0002</set>
+	<set xpath="/worldgeneration/pois/poi[@name='Country Road Asphalt']/blockontop[@blockname='cntStreetRandomLootHelper']/@prob">0.0005</set>
+	<set xpath="/worldgeneration/pois/poi[@name='Country Road Asphalt']/blockontop[@blockname='carsRandomHelper']/@prob">0.0005</set>
+	<set xpath="/worldgeneration/pois/poi[@name='Country Road Asphalt']/blockontop[@blockname='decoCarTireSmallFlat']/@prob">0.0007</set>
+	<set xpath="/worldgeneration/pois/poi[@name='Country Road Asphalt']/blockontop[@blockname='rock01']/@prob">0.0004</set>
+	<set xpath="/worldgeneration/pois/poi[@name='Country Road Asphalt']/blockontop[@blockname='rock02']/@prob">0.0004</set>
+	<set xpath="/worldgeneration/pois/poi[@name='Country Road Asphalt']/blockontop[@blockname='rock04']/@prob">0.0004</set>
+	<set xpath="/worldgeneration/pois/poi[@name='Country Road Asphalt']/blockontop[@blockname='goreBlockAnimal']/@prob">0.0002</set>
+
+	<set xpath="/worldgeneration/pois/poi[@name='Road Gravel']/decal[@texture='0']/@prob">0.0002</set>
+	<set xpath="/worldgeneration/pois/poi[@name='Road Gravel']/decal[@texture='1']/@prob">0.0002</set>
+	<set xpath="/worldgeneration/pois/poi[@name='Road Gravel']/decal[@texture='2']/@prob">0.0002</set>
+	<set xpath="/worldgeneration/pois/poi[@name='Road Gravel']/decal[@texture='3']/@prob">0.0002</set>
+	<set xpath="/worldgeneration/pois/poi[@name='Road Gravel']/decal[@texture='4']/@prob">0.0002</set>
+	<set xpath="/worldgeneration/pois/poi[@name='Road Gravel']/decal[@texture='5']/@prob">0.0002</set>
+	<set xpath="/worldgeneration/pois/poi[@name='Road Gravel']/decal[@texture='6']/@prob">0.0002</set>
+	<set xpath="/worldgeneration/pois/poi[@name='Road Gravel']/decal[@texture='7']/@prob">0.0002</set>
+	<set xpath="/worldgeneration/pois/poi[@name='Road Gravel']/decal[@texture='8']/@prob">0.0002</set>
+	<set xpath="/worldgeneration/pois/poi[@name='Road Gravel']/decal[@texture='11']/@prob">0.0002</set>
+	<set xpath="/worldgeneration/pois/poi[@name='Road Gravel']/decal[@texture='12']/@prob">0.0002</set>
+	<set xpath="/worldgeneration/pois/poi[@name='Road Gravel']/decal[@texture='13']/@prob">0.0002</set>
+	<set xpath="/worldgeneration/pois/poi[@name='Road Gravel']/decal[@texture='14']/@prob">0.0002</set>
+	<set xpath="/worldgeneration/pois/poi[@name='Road Gravel']/decal[@texture='15']/@prob">0.0002</set>
+	<set xpath="/worldgeneration/pois/poi[@name='Road Gravel']/blockontop[@blockname='goreBlockAnimal']/@prob">0.0002</set>
+	<set xpath="/worldgeneration/pois/poi[@name='Road Gravel']/blockontop[@blockname='cntStreetRandomLootHelper']/@prob">0.0007</set>
+	<set xpath="/worldgeneration/pois/poi[@name='Road Gravel']/blockontop[@blockname='carsRandomHelper']/@prob">0.0003</set>
+
+
+</JaxTeller718>
