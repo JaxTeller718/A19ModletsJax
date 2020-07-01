@@ -1,7 +1,7 @@
 
 <JaxTeller718>
 
-	<append xpath="/ui_display_info">
+	<append xpath="/ui_display_info/crafting_category_display">
 
 		<crafting_category_list display_type="workingStove">
 			<crafting_category name="CFFood/Cooking" icon="ui_game_symbol_fork" display_name="lblCategoryFood" />
