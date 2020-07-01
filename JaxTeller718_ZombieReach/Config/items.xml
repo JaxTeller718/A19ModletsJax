@@ -1,0 +1,64 @@
+<JaxTeller718>
+
+	<insertAfter xpath="/items/item[@name='meleeHandMaster']">
+	
+<item name="meleeHandMasterPlayer"> <!-- T1 brawling -->
+	<property name="Extends" value="meleeHandMaster"/>
+	<property name="Tags" value="blunt,melee,grunting,light,perkFlurryOfBlows,attFortitude,perkBrawler"/>
+	<property name="CreativeMode" value="None"/>
+	<property name="HoldType" value="0"/>
+	<property class="Action0">
+		<property name="Class" value="DynamicMelee"/>
+		<property name="Sphere" value=".15"/>
+		<property name="Damage_type" value="Bashing"/>
+
+		<property name="GrazeStart" value=".3"/>
+		<property name="GrazeEnd" value=".5"/>
+		<property name="SwingDegrees" value="5"/>
+		<property name="UseGrazingHits" value="true"/>
+		<property name="SwingAngle" value="-90"/>
+
+	</property>
+	<property class="Action1"> <!-- UseAction -->
+		<property name="Class" value="DynamicMelee"/>
+		<property name="Sphere" value=".15"/>   <!-- limit to 0.15, else the sphere cast can overlap the target already -->
+		<property name="UsePowerAttackAnimation" value="true"/>
+
+		<property name="GrazeStart" value=".3"/>
+		<property name="GrazeEnd" value=".4"/>
+		<property name="SwingDegrees" value="65"/>
+		<property name="UseGrazingHits" value="true"/>
+		<property name="SwingAngle" value="90"/>
+	</property>
+	<effect_group name="meleeHandPlayer" tiered="false">
+		<passive_effect name="EntityDamage" operation="base_set" value="5"/>
+		<passive_effect name="BlockDamage" operation="base_set" value="2.2"/>
+		<passive_effect name="DamageModifier" operation="perc_add" value="-.5" tags="earth"/>
+		<passive_effect name="DamageModifier" operation="perc_add" value="-.5" tags="stone"/>
+		<passive_effect name="DamageModifier" operation="perc_add" value="-.5" tags="metal"/>
+		<passive_effect name="AttacksPerMinute" operation="base_set" value="80"/>
+		<passive_effect name="StaminaLoss" operation="base_set" value="10.5" tags="primary"/>
+
+		<passive_effect name="MaxRange" operation="base_set" value="2.0"/>
+		<passive_effect name="BlockRange" operation="base_set" value="2.6"/>
+	</effect_group>
+	<effect_group name="Power Attack" tiered="false">
+		<passive_effect name="EntityDamage" operation="perc_add" value="1" tags="secondary"/>
+		<passive_effect name="BlockDamage" operation="perc_add" value="1" tags="secondary"/>
+		<passive_effect name="AttacksPerMinute" operation="perc_add" value="-.3" tags="secondary"/>
+		<passive_effect name="StaminaLoss" operation="base_set" value="15.8" tags="secondary"/>
+	</effect_group>
+	<!--use_action class="LiftUpTerrain" delay="1" use_time="..." gain_health="-5"gain_stamina="-20" gain_food="0" gain_water="10" gain_sickness="15" condition_raycast_block="77,78,79,80" sound_start="player_drinking" /-->
+</item>
+
+
+	</insertAfter>
+
+	<set xpath="/items/item[@name='meleeHandPlayer']/property[@name='Extends']/@value">meleeHandMasterPlayer</set>
+
+	<set xpath="/items/item[@name='meleeHandMaster']/property[@class='Action0']/property[@name='Range']/@value">1.00</set>
+	<set xpath="/items/item[@name='meleeHandMaster']/effect_group[@name='meleeHandMaster']/passive_effect[@name='DamageFalloffRange']/@value">1.05</set>
+
+	<set xpath="/items/item[@name='meleeHandZombieCop']/property[@class='Action0']/property[@name='Range']/@value">1.35</set>
+
+</JaxTeller718>

@@ -1,0 +1,12 @@
+<JaxTeller718>
+	<append xpath="/recipes" >
+
+		<recipe name="stoveKit" count="1" craft_area="workbench" craft_time="20"> 
+			<ingredient name="resourceMechanicalParts" count="5"/> 
+			<ingredient name="resourceForgedIron" count="10"/>
+			<ingredient name="resourceElectricParts" count="7"/>
+			<ingredient name="resourceMetalPipe" count="2"/>
+		</recipe>
+
+	</append>
+</JaxTeller718>

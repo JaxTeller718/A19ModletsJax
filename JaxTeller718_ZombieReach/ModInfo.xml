@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xml>
+	<ModInfo>
+		<Name value="JaxTeller718_ZombieReach"/>
+		<Description value="Shortens the reach of zombies for servers"/>
+		<Author value="JaxTeller718"/>
+		<Version value="A19" />
+		<Website value="https://ravenhearst.enjin.com/" />
+	</ModInfo>
+</xml>

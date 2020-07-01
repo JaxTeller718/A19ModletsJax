@@ -1,0 +1,28 @@
+<JaxTeller718>
+
+	<append xpath="/items/item[@name='meleeToolRepairT1ClawHammer' or @name='meleeToolRepairT3Nailgun']/property[@class='Action1']/property[@name='Allowed_upgrade_items']/@value">,stoveKit</append>
+
+
+
+	<append xpath="/items">	
+
+		<item name="stoveKit">
+			<property name="HoldType" value="45"/>
+			<property name="CustomIcon" value="resourceRepairKit"/>
+			<property name="CustomIconTint" value="210,0,210"/>
+			<property name="Meshfile" value="#Other/Items?Misc/sackPrefab.prefab"/>
+			<property name="DropMeshfile" value="#Other/Items?Misc/sack_droppedPrefab.prefab"/>
+			<property name="Material" value="MresourceForgedIron"/>
+			<property name="Stacknumber" value="500"/>
+			<!-- STK resource -->
+			<property name="EconomicValue" value="6"/>
+			<property name="CraftingIngredientExp" value="10"/>
+			<property name="CraftingIngredientTime" value="10"/>
+			<property name="RepairTime" value=".5"/>
+			<property name="RepairAmount" value="270"/>
+			<property name="Group" value="Resources"/>
+		</item>
+
+	</append>
+
+</JaxTeller718>

@@ -1,0 +1,102 @@
+<JaxTeller718>
+	<set xpath="/worldgeneration/biomes/biome[@name='snow']/subbiome[@prob='0.1']/decorations/decoration[@type='prefab' and @name='deco_iron_vein']/@prob">0.00157</set>
+
+
+	<set xpath="/worldgeneration/biomes/biome[@name='snow']/subbiome[@prob='0.292']/decorations/decoration[@type='prefab' and @name='deco_coal_vein']/@prob">0.00157</set>
+
+
+	<set xpath="/worldgeneration/biomes/biome[@name='snow']/subbiome[@prob='0.312']/decorations/decoration[@type='prefab' and @name='deco_nitrate_vein']/@prob">0.00157</set>
+
+
+	<set xpath="/worldgeneration/biomes/biome[@name='snow']/subbiome[@prob='0.342']/decorations/decoration[@type='prefab' and @name='deco_lead_vein']/@prob">0.00157</set>	
+
+
+	<set xpath="/worldgeneration/biomes/biome[@name='snow']/decorations/decoration[@type='prefab' and @name='deco_iron_vein']/@prob">0.00157</set>	
+
+	
+	
+	<set xpath="/worldgeneration/biomes/biome[@name='pine_forest']/subbiome[@prob='0.12']/decorations/decoration[@type='prefab' and @name='deco_iron_vein']/@prob">0.00157</set>
+
+
+	<set xpath="/worldgeneration/biomes/biome[@name='pine_forest']/subbiome[@prob='0.292']/decorations/decoration[@type='prefab' and @name='deco_coal_vein']/@prob">0.00157</set>
+
+
+	<set xpath="/worldgeneration/biomes/biome[@name='pine_forest']/subbiome[@prob='0.312']/decorations/decoration[@type='prefab' and @name='deco_nitrate_vein']/@prob">0.00157</set>
+
+
+	<set xpath="/worldgeneration/biomes/biome[@name='pine_forest']/subbiome[@prob='0.342']/decorations/decoration[@type='prefab' and @name='deco_lead_vein']/@prob">0.00157</set>
+
+
+	<set xpath="/worldgeneration/biomes/biome[@name='pine_forest']/decorations/decoration[@type='prefab' and @name='deco_iron_vein']/@prob">0.00157</set>	
+
+
+
+	<set xpath="/worldgeneration/biomes/biome[@name='desert']/subbiome[@prob='0.09']/decorations/decoration[@type='prefab' and @name='deco_iron_vein']/@prob">0.00157</set>
+
+	
+	<set xpath="/worldgeneration/biomes/biome[@name='desert']/subbiome[@prob='0.302']/decorations/decoration[@type='prefab' and @name='deco_shale_vein']/@prob">0.00157</set>
+
+
+	<set xpath="/worldgeneration/biomes/biome[@name='desert']/subbiome[@prob='0.312']/decorations/decoration[@type='prefab' and @name='deco_nitrate_vein']/@prob">0.00157</set>
+
+	
+	<set xpath="/worldgeneration/biomes/biome[@name='desert']/subbiome[@prob='0.342']/decorations/decoration[@type='prefab' and @name='deco_lead_vein']/@prob">0.00157</set>
+
+
+	<set xpath="/worldgeneration/biomes/biome[@name='desert']/decorations/decoration[@type='prefab' and @name='deco_iron_vein']/@prob">0.00157</set>	
+
+	
+
+	<set xpath="/worldgeneration/biomes/biome[@name='water']/subbiome[@prob='0.292']/decorations/decoration[@type='prefab' and @name='deco_coal_vein']/@prob">0.00157</set>
+
+
+	<set xpath="/worldgeneration/biomes/biome[@name='water']/subbiome[@prob='0.312']/decorations/decoration[@type='prefab' and @name='deco_nitrate_vein']/@prob">0.00157</set>
+
+	
+	<set xpath="/worldgeneration/biomes/biome[@name='water']/subbiome[@prob='0.342']/decorations/decoration[@type='prefab' and @name='deco_lead_vein']/@prob">0.00157</set>
+
+
+	<set xpath="/worldgeneration/biomes/biome[@name='water']/decorations/decoration[@type='prefab' and @name='deco_iron_vein']/@prob">0.00157</set>	
+
+	
+	
+
+
+	
+	<set xpath="/worldgeneration/biomes/biome[@name='wasteland']/subbiome[@prob='0.1']/decorations/decoration[@type='prefab' and @name='deco_iron_vein']/@prob">0.00157</set>
+
+	
+	<set xpath="/worldgeneration/biomes/biome[@name='wasteland']/subbiome[@prob='0.292']/decorations/decoration[@type='prefab' and @name='deco_coal_vein']/@prob">0.00157</set>
+
+
+	<set xpath="/worldgeneration/biomes/biome[@name='wasteland']/subbiome[@prob='0.312']/decorations/decoration[@type='prefab' and @name='deco_nitrate_vein']/@prob">0.00157</set>
+
+
+	<set xpath="/worldgeneration/biomes/biome[@name='wasteland']/subbiome[@prob='0.342']/decorations/decoration[@type='prefab' and @name='deco_lead_vein']/@prob">0.00157</set>
+
+
+	
+	<set xpath="/worldgeneration/biomes/biome[@name='wasteland']/decorations/decoration[@type='prefab' and @name='deco_iron_vein']/@prob">0.00157</set>	
+
+	
+	
+	<set xpath="/worldgeneration/biomes/biome[@name='burnt_forest']/subbiome[@prob='0.02']/decorations/decoration[@type='prefab' and @name='deco_iron_vein']/@prob">0.00157</set>
+
+	
+	<set xpath="/worldgeneration/biomes/biome[@name='burnt_forest']/subbiome[@prob='0.04']/decorations/decoration[@type='prefab' and @name='deco_iron_vein']/@prob">0.00157</set>
+
+
+	<set xpath="/worldgeneration/biomes/biome[@name='burnt_forest']/subbiome[@prob='0.292']/decorations/decoration[@type='prefab' and @name='deco_coal_vein']/@prob">0.00157</set>
+	
+	
+	<set xpath="/worldgeneration/biomes/biome[@name='burnt_forest']/subbiome[@prob='0.312']/decorations/decoration[@type='prefab' and @name='deco_nitrate_vein']/@prob">0.00157</set>
+	
+
+	<set xpath="/worldgeneration/biomes/biome[@name='burnt_forest']/subbiome[@prob='0.342']/decorations/decoration[@type='prefab' and @name='deco_lead_vein']/@prob">0.00157</set>
+	
+
+	<set xpath="/worldgeneration/biomes/biome[@name='burnt_forest']/decorations/decoration[@type='prefab' and @name='deco_iron_vein']/@prob">0.00157</set>	
+
+
+
+</JaxTeller718>

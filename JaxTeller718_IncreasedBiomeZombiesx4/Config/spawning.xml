@@ -1,0 +1,91 @@
+<JaxTeller718>
+
+
+
+	<remove xpath="/spawning/biome[@name='pine_forest']/spawn" />
+
+
+	<!-- Addition -->
+	<append xpath="/spawning/biome[@name='pine_forest']">
+		<spawn maxcount="5" respawndelay="3" time="Day" entitygroup="ZombiesAll" />
+		<spawn maxcount="2" respawndelay="2" time="Day" entitygroup="ZombiesAll" />
+		<spawn maxcount="2" respawndelay="2" time="Night" entitygroup="ZombiesNight" />
+		<spawn maxcount="1" respawndelay="14" time="Night" entitygroup="EnemyAnimalsForest" spawnDeadChance="0" />
+		<spawn maxcount="1" respawndelay="21" time="Any" entitygroup="FriendlyAnimalsForest" spawnDeadChance="0" />
+	</append>
+
+
+	<!-- Desert -->
+	<!-- Removal -->
+
+
+	<remove xpath="/spawning/biome[@name='desert']/spawn" />
+
+
+	<!-- Addition -->
+	<append xpath="/spawning/biome[@name='desert']">
+		<spawn maxcount="5" respawndelay="3" time="Any" entitygroup="ZombiesAll" />
+		<spawn maxcount="2" respawndelay="2" time="Any" entitygroup="ZombiesAll" />
+		<spawn maxcount="2" respawndelay="2" time="Night" entitygroup="ZombiesNight" />
+		<spawn maxcount="1" respawndelay="14" time="Any" entitygroup="EnemyAnimalsDesert" spawnDeadChance="0" />
+		<spawn maxcount="1" respawndelay="21" time="Any" entitygroup="FriendlyAnimalsDesert" spawnDeadChance="0" />
+
+	</append>
+
+
+	<!-- Wasteland -->
+	<!-- Removal -->
+
+
+	<remove xpath="/spawning/biome[@name='wasteland']/spawn" />
+
+	<!-- Addition -->
+	<append xpath="/spawning/biome[@name='wasteland']">
+		<spawn maxcount="5" respawndelay="1" time="Day"	entitygroup="ZombiesAll" />
+		<spawn maxcount="4" respawndelay="2" time="Day"	entitygroup="ZombiesAll" />
+		<spawn maxcount="5" respawndelay="1" time="Night" entitygroup="ZombiesWastelandNight" />
+		<spawn maxcount="1" respawndelay="1" time="Any" entitygroup="EnemyAnimalsWasteland" spawnDeadChance="0" />
+
+	</append>
+
+
+	<!-- Burnt Forest -->
+	<!-- Removal -->
+
+
+	<remove xpath="/spawning/biome[@name='burnt_forest']/spawn" />
+
+
+	<!-- Addition -->
+	<append xpath="/spawning/biome[@name='burnt_forest']">
+		<spawn maxcount="4" respawndelay="3" time="Day" entitygroup="ZombiesBurntForest" />
+		<spawn maxcount="2" respawndelay="2" time="Day" entitygroup="ZombiesBurntForest" />
+		<spawn maxcount="2" respawndelay="2" time="Night" entitygroup="ZombiesNight" />
+		<spawn maxcount="1" respawndelay="14" time="Night" entitygroup="EnemyAnimalsBurntForest" spawnDeadChance="0" />
+		<spawn maxcount="1" respawndelay="21" time="Any" entitygroup="FriendlyAnimalsForest" spawnDeadChance="0" />
+
+	</append>
+
+
+	<!-- Snow -->
+	<!-- Removal -->
+
+
+	<remove xpath="/spawning/biome[@name='snow']/spawn" />
+
+
+	<!-- Addition -->
+	<append xpath="/spawning/biome[@name='snow']">
+		<spawn maxcount="4" respawndelay="3" time="Any" entitygroup="SnowZombies" />
+		<spawn maxcount="2" respawndelay="2" time="Any" entitygroup="SnowZombies" />
+		<spawn maxcount="2" respawndelay="2" time="Night" entitygroup="ZombiesNight" />
+		<spawn maxcount="1" respawndelay="14" time="Any" entitygroup="EnemyAnimalsSnow" spawnDeadChance="0" />
+		<spawn maxcount="1" respawndelay="21" time="Any" entitygroup="FriendlyAnimalsSnow" spawnDeadChance="0" />
+
+	</append>
+
+
+
+
+
+</JaxTeller718>

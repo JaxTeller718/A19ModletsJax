@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xml>
+	<ModInfo>
+		<Name value="JaxTeller718_LessOreNodes" />
+		<Description value="Reduces the amount of ore nodes found in the world" />
+		<Author value="JaxTeller718"/>
+		<Version value="A19" />
+		<Website value="https://ravenhearst.enjin.com/" />
+	</ModInfo>
+</xml>
