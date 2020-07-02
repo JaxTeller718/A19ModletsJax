@@ -1,0 +1,6 @@
+<JaxTeller718>
+
+
+	<setattribute xpath="/lootcontainers/lootcontainer[@id='25']" name="destroy_on_close">true</setattribute>
+
+</JaxTeller718>

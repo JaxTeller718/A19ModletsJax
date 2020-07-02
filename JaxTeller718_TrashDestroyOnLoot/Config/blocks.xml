@@ -1,0 +1,8 @@
+<JaxTeller718>
+
+	<set xpath="/blocks/block[@name='cntBin']/property[@name='LootList']/@value">650</set>
+	<set xpath="/blocks/block[@name='cntBruteStyleTrashCanFull']/property[@name='LootList']/@value">650</set>
+	<set xpath="/blocks/block[@name='cntTiltTruckFull']/property[@name='LootList']/@value">650</set>
+	<set xpath="/blocks/block[@name='cntTiltTruckFullFlies']/property[@name='LootList']/@value">650</set>
+
+</JaxTeller718>

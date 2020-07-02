@@ -1,0 +1,6 @@
+<JaxTeller718>
+
+
+	<set xpath="/blocks/block[@name='cntBirdnest']/property[@name='Material']/@value">Mplants</set>
+
+</JaxTeller718>

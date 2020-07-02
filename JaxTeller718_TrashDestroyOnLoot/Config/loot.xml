@@ -1,0 +1,13 @@
+<JaxTeller718>
+
+	<insertAfter xpath="/lootcontainers/lootcontainer[@id='124']">
+		<lootcontainer id="650" count="0,2" size="6,2" sound_open="UseActions/open_trashcan" sound_close="UseActions/close_garbage" loot_quality_template="qualBaseTemplate">
+			<item group="junk"/>
+		</lootcontainer>
+	</insertAfter>
+
+
+	<setattribute xpath="/lootcontainers/lootcontainer[@id='10']" name="destroy_on_close">true</setattribute>
+
+
+</JaxTeller718>
