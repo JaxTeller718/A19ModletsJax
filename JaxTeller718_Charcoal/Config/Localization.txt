@@ -1,0 +1,3 @@
+﻿Key,Source,Context,English
+resourceCharcoalJT,items,Item,Charcoal
+resourceCharcoalJTDesc,items,Item,"The smell of family cookouts and holidays past. Use these for the best burn times. If you can get it to stay lit."

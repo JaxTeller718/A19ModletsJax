@@ -1,5 +1,5 @@
 ﻿Key,Source,Context,English
-stoveKit,items,Item,Stove Repair Kit
-stoveKitDesc,items,Item,"This stove repair kit is used with a hammer to take a broken stove and make it a working one that you can use."
-workingStove,blocks,Block,Working Stove
-workingStoveDesc,blocks,Block,"A working stove can be used to cook food and some chemicals in a safe environment."
+stoveKitJT,items,Item,Stove Repair Kit
+stoveKitJTDesc,items,Item,"This stove repair kit is used with a hammer to take a broken stove and make it a working one that you can use."
+workingStoveJT,blocks,Block,Working Stove
+workingStoveJTDesc,blocks,Block,"A working stove can be used to cook food and some chemicals in a safe environment."

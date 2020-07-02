@@ -1,9 +1,9 @@
 
 <JaxTeller718>
 
-	<append xpath="/ui_display_info/crafting_category_display">
+	<append xpath="/ui_display_info">
 
-		<crafting_category_list display_type="workingStove">
+		<crafting_category_list display_type="workingStoveJT">
 			<crafting_category name="CFFood/Cooking" icon="ui_game_symbol_fork" display_name="lblCategoryFood" />
 			<crafting_category name="CFDrink/Cooking" icon="ui_game_symbol_thirst" display_name="lblCategoryDrink" />
 			<crafting_category name="CFChemicals" icon="ui_game_symbol_chemistry" display_name="lblCategoryChemicals" />

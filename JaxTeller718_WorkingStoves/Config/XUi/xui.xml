@@ -1,6 +1,6 @@
 <JaxTeller718>
 	<append xpath="/xui/ruleset" >
-		<window_group name="workstation_workingStove" controller="XUiC_WorkstationWindowGroup">
+		<window_group name="workstation_workingStoveJT" controller="XUiC_WorkstationWindowGroup">
 			<window name="windowCraftingList"/>
 			<window name="craftingInfoPanel"/>
 			<window name="windowCraftingQueue"/>

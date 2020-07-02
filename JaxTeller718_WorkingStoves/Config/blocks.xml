@@ -2,8 +2,8 @@
 
 	<insertAfter xpath="/blocks/block[@name='cntStoveOldVer2Open']/property[@name='Model']" >
 		<property class="UpgradeBlock">
-			<property name="ToBlock" value="workingStove"/>
-			<property name="Item" value="stoveKit"/>
+			<property name="ToBlock" value="workingStoveJT"/>
+			<property name="Item" value="stoveKitJT"/>
 			<property name="ItemCount" value="1"/>
 			<property name="UpgradeHitCount" value="4"/>
 		</property>
@@ -11,7 +11,7 @@
 
 
 	<append xpath="/blocks" >
-		<block name="workingStove">
+		<block name="workingStoveJT">
 			<property name="Class" value="Campfire"/>
 			<property name="CustomIcon" value="cntStoveOldVer1Closed"/>
 			<property name="MaxDamage" value="800"/>
@@ -61,7 +61,7 @@
 			<property name="FilterTags" value="floot,ffurniture"/>
 			<property name="TakeDelay" value="15"/>
 			<property name="Group" value="Food/Cooking,Building,advBuilding"/>
-			<property name="DescriptionKey" value="workingStoveDesc"/>
+			<property name="DescriptionKey" value="workingStoveJTDesc"/>
 			<property name="EconomicBundleSize" value="1"/>
 			<property name="SellableToTrader" value="false"/>
 			<property name="SortOrder1" value="70i0"/>

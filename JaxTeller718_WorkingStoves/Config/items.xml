@@ -1,12 +1,12 @@
 <JaxTeller718>
 
-	<append xpath="/items/item[@name='meleeToolRepairT1ClawHammer' or @name='meleeToolRepairT3Nailgun']/property[@class='Action1']/property[@name='Allowed_upgrade_items']/@value">,stoveKit</append>
+	<append xpath="/items/item[@name='meleeToolRepairT1ClawHammer' or @name='meleeToolRepairT3Nailgun']/property[@class='Action1']/property[@name='Allowed_upgrade_items']/@value">,stoveKitJT</append>
 
 
 
 	<append xpath="/items">	
 
-		<item name="stoveKit">
+		<item name="stoveKitJT">
 			<property name="HoldType" value="45"/>
 			<property name="CustomIcon" value="resourceRepairKit"/>
 			<property name="CustomIconTint" value="210,0,210"/>
