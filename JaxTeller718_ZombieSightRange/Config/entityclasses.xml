@@ -1,0 +1,14 @@
+﻿<JaxTeller718>
+
+
+	<set xpath="/entity_classes/entity_class[starts-with(@name, 'zombie')]/property[@name='SightRange']/@value">60</set>
+
+	<remove xpath="/entity_classes/entity_class[@name='zombieTemplateMale']/property[@name='AITarget-4']"/>
+
+	<insertAfter xpath="entity_classes/entity_class[@name='zombieTemplateMale']/property[@name='AITarget-3']" >
+		<property name="AITarget-4" value="SetNearestEntityAsTarget" data="class=EntityPlayer,60,30,EntityNPC,0,0"/>
+	</insertAfter>
+
+
+
+</JaxTeller718>

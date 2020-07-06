@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xml>
+	<ModInfo>
+		<Name value="JaxTeller718_CarRespawner" />
+		<Description value="Adds a small bush after a car wreck is harvested. It will regrow into a new random car in 1800 minutes or 30 in game days. This is adjustable." />
+		<Author value="JaxTeller718"/>
+		<Version value="A19" />
+		<Website value="https://ravenhearst.enjin.com/" />
+	</ModInfo>
+</xml>

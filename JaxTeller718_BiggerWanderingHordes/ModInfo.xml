@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xml>
+	<ModInfo>
+		<Name value="JaxTeller718_BiggerWanderingHordes" />
+		<Description value="Makes a slight increase to the size of vanilla wandering hordes." />
+		<Author value="JaxTeller718"/>
+		<Version value="A19" />
+		<Website value="https://ravenhearst.enjin.com/" />
+	</ModInfo>
+</xml>

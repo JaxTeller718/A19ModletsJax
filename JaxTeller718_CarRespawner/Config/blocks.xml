@@ -1,0 +1,44 @@
+<JaxTeller718>
+	
+  <insertAfter xpath="/blocks/block[@name='cntCar03SedanDamage2Master']/property[@name='FilterTags']" >
+	<property name="DowngradeBlock" value="carRespawnerRH"/>
+  </insertAfter>
+  
+  
+	<append xpath="/blocks">	
+ 
+<block name="carRespawnerRH">
+	<property name="CreativeMode" value="None"/>
+	<property name="DescriptionKey" value="plantsBlockGroupDesc"/>
+	<property name="CustomIcon" value="treeForestGrassDiagonal"/>
+	<property name="Class" value="PlantGrowing"/>
+	<property name="PlantGrowing.Next" value="carsRandomHelper"/>
+	<property name="PlantGrowing.GrowthRate" value="1200.0"/> <!-- setting 1 is erratic. Recommend 2+ for testing or use -->
+	<property name="PlantGrowing.FertileLevel" value="0"/>
+	<property name="PlantGrowing.IsRandom" value="false"/>
+	<property name="PlantGrowing.LightLevelGrow" value="8"/>
+	<property name="PlantGrowing.LightLevelStay" value="0"/>
+	
+	<property name="Material" value="Mtallgrass"/>
+	<property name="StabilitySupport" value="false"/>
+	<property name="Shape" value="Grass"/>
+	<property name="Mesh" value="grass"/>
+	<property name="MaxDamage" value="1000"/>
+	<property name="Texture" value="350,368,369,370,350,368"/>
+	<property name="ImposterDontBlock" value="true"/>
+	<property name="Collide" value="melee"/>
+	<property name="CanDecorateOnSlopes" value="true"/>
+	<property name="IsTerrainDecoration" value="true"/>
+	<property name="IsDecoration" value="true"/>
+	<!-- grass <property name="CanPickup" value="true" param1="resourceYuccaFibers"/> -->
+	<property name="HarvestOverdamage" value="false"/>
+	<drop event="Harvest" name="resourceYuccaFibers" count="2" tag="allHarvest"/>
+	<drop event="Destroy" count="0"/>
+	<drop event="Fall" name="resourceYuccaFibers" count="0" prob="1" stick_chance="0"/>
+	<property name="FilterTags" value="foutdoor,fshrubbery"/>
+	<property name="SortOrder1" value="a030"/>
+	<property name="SortOrder2" value="0002"/>
+</block>  
+	</append>
+  
+</JaxTeller718>
