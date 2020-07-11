@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xml>
+	<ModInfo>
+		<Name value="JaxTeller718_AnimalSpawnGroups" />
+		<Description value="Reverts animal spawning back to pre b163 and reduces them." />
+		<Author value="JaxTeller718"/>
+		<Version value="A19" />
+		<Website value="https://ravenhearst.enjin.com/" />
+	</ModInfo>
+</xml>

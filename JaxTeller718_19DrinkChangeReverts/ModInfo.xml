@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xml>
+	<ModInfo>
+		<Name value="JaxTeller718_19DrinkChangeReverts" />
+		<Description value="Reverts changes to water and canned food from b163. Poison is back and canned food now takes a point of stamina off as it did in b157." />
+		<Author value="JaxTeller718"/>
+		<Version value="A19" />
+		<Website value="https://ravenhearst.enjin.com/" />
+	</ModInfo>
+</xml>
