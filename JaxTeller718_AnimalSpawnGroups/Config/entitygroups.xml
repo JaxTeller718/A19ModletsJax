@@ -8,8 +8,6 @@
 	<remove xpath="/entitygroups/entitygroup[@name='EnemyAnimalsForest']" />
 	<remove xpath="/entitygroups/entitygroup[@name='FriendlyAnimalsForest']" />
 	<remove xpath="/entitygroups/entitygroup[@name='EnemyAnimalsBurntForest']" />
-	<remove xpath="/entitygroups/entitygroup[@name='FriendlyAnimalsBurntForest']" />
-	<remove xpath="/entitygroups/entitygroup[@name='AnimalsAll']" />
 	<remove xpath="/entitygroups/entitygroup[@name='EnemyAnimalsWasteland']" />
 
 
