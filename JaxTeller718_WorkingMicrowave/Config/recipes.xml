@@ -1,0 +1,38 @@
+<JaxTeller718>
+<append xpath="/recipes">
+
+<recipe name="foodSoupChickenJT" count="1" craft_area="microwave" >
+	<ingredient name="foodCanChicken" count="1"/>
+	<ingredient name="foodCanSoup" count="1"/>
+	<ingredient name="drinkBowlEmptyJT" count="1"/>
+</recipe>
+
+<recipe name="foodBowlPastaJT" count="1" craft_area="microwave" >
+	<ingredient name="foodCanPasta" count="2"/>
+	<ingredient name="drinkBowlEmptyJT" count="1"/>
+</recipe>
+
+<recipe name="foodTunaSandwichJT" count="1" >
+	<ingredient name="foodCanTuna" count="1"/>
+	<ingredient name="foodCornBread" count="2"/>
+</recipe>
+
+<recipe name="foodBowlChiliJT" count="1" craft_area="microwave" >
+	<ingredient name="foodCanChili" count="2"/>
+	<ingredient name="drinkBowlEmptyJT" count="1"/>
+</recipe>
+
+<recipe name="foodBeefStewJT" count="1" craft_area="microwave" >
+	<ingredient name="foodCanStock" count="1"/>
+	<ingredient name="foodCanBeef" count="1"/>
+	<ingredient name="drinkBowlEmptyJT" count="1"/>
+</recipe>
+
+<recipe name="foodLambSoupJT" count="1" craft_area="microwave" >
+	<ingredient name="foodCanLamb" count="1"/>
+	<ingredient name="foodCanSoup" count="1"/>
+	<ingredient name="drinkBowlEmptyJT" count="1"/>
+</recipe>
+
+</append>
+</JaxTeller718>

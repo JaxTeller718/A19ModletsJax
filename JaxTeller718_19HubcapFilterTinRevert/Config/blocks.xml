@@ -1,0 +1,11 @@
+<JaxTeller718>
+
+
+
+
+	<set xpath="/blocks/block[@name='hubcapNoMine']/drop[@event='Destroy' and @name='resourceScrapIron']/@count">1</set>
+	<set xpath="/blocks/block[@name='hubcapNoMine']/drop[@event='Destroy' and @name='resourceScrapIron']/@name">resourceHubcap</set>
+	
+	
+	
+</JaxTeller718>

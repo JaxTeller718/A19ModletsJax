@@ -1,0 +1,63 @@
+<JaxTeller718>
+
+<append xpath="/blocks">
+
+<block name="workingMicrowaveJT">
+	<property name="Material" value="MmetalNoGlue"/>
+	<property name="MaxDamage" value="400"/>
+	<property name="StabilitySupport" value="false"/>
+	<property name="CreativeMode" value="Player"/>
+	<property name="Class" value="Workstation"/>
+	<property name="CustomIcon" value="goddamnFrontFacingMicrowaveJT"/>
+	<property name="Shape" value="Ext3dModel"/> <property name="Texture" value="293"/>
+	<property name="Mesh" value="models"/>
+	<property name="Model" value="Appliances/microwave_oven_ver1" param1="main_mesh"/> <property name="Place" value="TowardsPlacer90"/>
+	<property class="Workstation">
+		<property name="Modules" value="output"/>
+		<property name="CraftingAreaRecipes" value="microwave"/>
+	</property>
+	<property name="WorkstationIcon" value="ui_game_symbol_campfire"/>
+	<property name="CraftActionName" value="lblContextActionCook"/>
+	<property name="OpenSound" value="open_workbench"/>
+	<property name="CloseSound" value="close_workbench"/>
+	<property name="WorkstationJournalTip" value="microwaveTipJT"/>
+
+	<property class="RepairItems">
+		<property name="resourceElectricParts" value="2"/>
+		<property name="resourceMechanicalParts" value="2"/>
+		<property name="resourceScrapIron" value="5"/>
+	</property>
+	<drop event="Harvest" name="terrStone" count="0" tool_category="Disassemble"/>
+	<drop event="Harvest" name="resourceMechanicalParts" count="0,1" prob="0.1" tag="salvageHarvest"/>
+	<drop event="Harvest" name="resourceElectricParts" count="1,3" tag="salvageHarvest"/>
+	<drop event="Harvest" name="resourceElectricParts" count="0,2" tag="salvageHarvest"/>
+	<drop event="Harvest" name="resourceScrapPolymers" count="0,2" tag="salvageHarvest"/>
+	<drop event="Destroy" name="resourceScrapIron" count="5" prob="1"/>
+	<drop event="Fall" name="scrapMetalPile" count="1" prob="0.75" stick_chance="1"/>
+	<property name="EconomicValue" value="300"/>
+	<property name="FilterTags" value="floot,ffurniture,fdesign"/>
+	<property name="TakeDelay" value="15"/>
+</block>
+
+</append>
+
+<append xpath="/blocks/block[@name='cntMicrowaveOvenVer1Open']">
+	<property name="CustomIcon" value="goddamnFrontFacingMicrowaveJT"/>
+
+</append>
+<append xpath="/blocks/block[@name='cntMicrowaveOvenVer1Closed']">
+	<property name="CustomIcon" value="goddamnFrontFacingMicrowaveJT"/>
+
+</append>
+
+<append xpath="/blocks/block[@name='cntMicrowaveOvenRandomLootHelper']">
+	<property name="CustomIcon" value="goddamnFrontFacingMicrowaveJT"/>
+
+</append>
+
+<append xpath="/blocks/block[@name='cntMicrowaveOvenVer1Open']">
+	<drop event="Destroy" name="workingMicrowaveJT" count="1" prob="0.7"/>
+
+</append>
+
+</JaxTeller718>

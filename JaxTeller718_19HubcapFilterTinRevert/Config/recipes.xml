@@ -1,0 +1,58 @@
+<JaxTeller718>
+
+	<remove xpath="/recipes/recipe[@name='mineCandyTin']" />
+	<remove xpath="/recipes/recipe[@name='mineHubcap']" />
+	<remove xpath="/recipes/recipe[@name='mineAirFilter']" />
+	<remove xpath="/recipes/recipe[@name='mineCookingPot']" />
+
+
+
+	<append xpath="/recipes">
+
+
+		
+<recipe name="mineCandyTin" count="1" craft_area="workbench" > <!-- trap size 1 -->
+	<ingredient name="resourceScrapIron" count="4"/>
+	<ingredient name="resourceGunPowder" count="4"/>
+	<ingredient name="resourceCandyTin" count="1"/>
+	<ingredient name="resourceNail" count="1"/>
+</recipe>
+
+<recipe name="mineHubcap" count="1" craft_area="workbench" tags="learnable,workbenchCrafting"> <!-- trap size 2 -->
+	<ingredient name="resourceScrapIron" count="8"/>
+	<ingredient name="resourceGunPowder" count="8"/>
+	<ingredient name="resourceHubcap" count="1"/>
+	<ingredient name="resourceSpring" count="1"/>
+</recipe>
+
+<recipe name="mineAirFilter" count="1" craft_area="workbench" tags="learnable,workbenchCrafting"> <!-- trap size 3 -->
+	<ingredient name="resourceScrapIron" count="12"/>
+	<ingredient name="resourceGunPowder" count="12"/>
+	<ingredient name="resourceAirFilter" count="1"/>
+	<ingredient name="resourceSpring" count="1"/>
+</recipe>
+
+<recipe name="mineCookingPot" count="1" craft_area="workbench" tags="learnable,workbenchCrafting"> <!-- trap size 1.1 -->
+	<ingredient name="resourceScrapIron" count="5"/>
+	<ingredient name="resourceGunPowder" count="5"/>
+	<ingredient name="toolCookingPot" count="1"/>
+	<ingredient name="resourceNail" count="1"/>
+</recipe>
+
+<recipe name="resourceAirFilter" count="1" craft_area="workbench" tags="workbenchCrafting">
+	<ingredient name="resourceScrapIron" count="15"/>
+</recipe>
+
+<recipe name="resourceCandyTin" count="1" craft_area="workbench" tags="workbenchCrafting">
+	<ingredient name="resourceScrapIron" count="5"/>
+</recipe>
+
+<recipe name="resourceHubcap" count="1" craft_area="workbench" tags="workbenchCrafting">
+	<ingredient name="resourceScrapIron" count="10"/>
+</recipe>
+
+
+
+	</append>
+
+</JaxTeller718>

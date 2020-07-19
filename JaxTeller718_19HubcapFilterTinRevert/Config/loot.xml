@@ -1,0 +1,21 @@
+<JaxTeller718>
+
+
+
+
+<append xpath="/lootcontainers/lootgroup[@name='junk']">
+	<item name="resourceCandyTin"/>
+</append>
+	
+
+
+
+	
+<append xpath="/lootcontainers/lootgroup[@name='automotive']">
+	<item name="resourceHubcap"/>
+	<item name="resourceAirFilter"/>
+</append>
+
+
+
+</JaxTeller718>

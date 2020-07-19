@@ -1,0 +1,14 @@
+
+<JaxTeller718>
+
+<append xpath="/ui_display_info">
+
+		<crafting_category_list display_type="workingMicrowaveJT">
+			<!-- <crafting_category name="" icon="ui_game_symbol_campfire" display_name="lblAll" />
+			<crafting_category name="Drink/Cooking" icon="ui_game_symbol_water" display_name="lblCategoryChemicals" /> -->
+			<crafting_category name="CFFood/Cooking" icon="ui_game_symbol_fork" display_name="lblCategoryFood" />
+		</crafting_category_list>
+
+</append>
+
+</JaxTeller718>

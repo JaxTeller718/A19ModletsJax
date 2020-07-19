@@ -1,0 +1,19 @@
+﻿Key,Source,Context,English
+workingMicrowaveJT,blocks,Block,Microwave (Powered)
+workingMicrowaveJTDesc,blocks,Block,"This microwave is powered already and can be used to heat up bowls of canned food to gain the maximum benefits from them."
+drinkBowlEmptyJT,items,Item,Bowl (Empty)
+drinkBowlEmptyJTDesc,items,Item,Use this empty bowl to heat up foods in the microwave.
+foodSoupChickenJT,items,Food,Bowl of Chicken Soup
+foodSoupChickenJTDesc,items,Food,Using your saved canned food with bowls in the microwave can give you additional benefits. Nothing beats a warm bowl of food.
+foodBowlPastaJT,items,Food,Bowl of Pasta
+foodBowlPastaJTDesc,items,Food,Using your saved canned food with bowls in the microwave can give you additional benefits. Nothing beats a warm bowl of food.
+foodBowlChiliJT,items,Food,Bowl of Chili
+foodBowlChiliJTDesc,items,Food,Using your saved canned food with bowls in the microwave can give you additional benefits. Nothing beats a warm bowl of food.
+foodBeefStewJT,items,Food,Bowl of Beef Stew
+foodBeefStewJTDesc,items,Food,Using your saved canned food with bowls in the microwave can give you additional benefits. Nothing beats a warm bowl of food.
+foodLambSoupJT,items,Food,Bowl of Lamb Soup
+foodLambSoupJTDesc,items,Food,Using your saved canned food with bowls in the microwave can give you additional benefits. Nothing beats a warm bowl of food.
+foodTunaSandwichJT,items,Food,Tuna Sandwich
+foodTunaSandwichJTDesc,items,Food,Making a delicious tuna sandwich will give you some extra benefits.
+microwaveTipJT,Journal,EnChanged,The microwave can be placed and used to heat canned food recipes. Canned food recipes offer slightly more benefits to them than if you eat them in singles so save those cans when you can. Bowls can be found in loot and are used with the canned foods.,,
+microwaveTipJT_title,Journal,KeyTrunk,Microwave

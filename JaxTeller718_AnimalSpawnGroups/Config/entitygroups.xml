@@ -1,12 +1,10 @@
-<configs>
+<JaxTeller718>
 
 
 	<remove xpath="/entitygroups/entitygroup[@name='EnemyAnimalsDesert']" />
-	<remove xpath="/entitygroups/entitygroup[@name='FriendlyAnimalsDesert']" />
 	<remove xpath="/entitygroups/entitygroup[@name='EnemyAnimalsSnow']" />
-	<remove xpath="/entitygroups/entitygroup[@name='FriendlyAnimalsSnow']" />
+	<remove xpath="/entitygroups/entitygroup[@name='WildGameForest']" />
 	<remove xpath="/entitygroups/entitygroup[@name='EnemyAnimalsForest']" />
-	<remove xpath="/entitygroups/entitygroup[@name='FriendlyAnimalsForest']" />
 	<remove xpath="/entitygroups/entitygroup[@name='EnemyAnimalsBurntForest']" />
 	<remove xpath="/entitygroups/entitygroup[@name='EnemyAnimalsWasteland']" />
 
@@ -14,84 +12,50 @@
 	<append xpath="/entitygroups">
 	
 	<entitygroup name="EnemyAnimalsDesert">
-		<entity name="invisibleAnimalEnemy" prob="6"/>
-		<entity name="animalCoyote"/>
-		<entity name="animalZombieVulture"/>
-		<entity name="animalSnake"/>
-	</entitygroup>
-
-	<entitygroup name="FriendlyAnimalsDesert">
-		<entity name="invisibleAnimal" prob="6"/>
-		<entity name="animalRabbit"/>
-		<entity name="animalChicken"/>
-		<entity name="animalBoar" prob="0.4"/>
+		<entity name="invisibleAnimalEnemy" prob="40"/>
+		<entity name="animalCoyote" prob="20"/>
+		<entity name="animalZombieVulture" prob="10"/>
+		<entity name="animalSnake" prob="5"/>
 	</entitygroup>
 
 	<entitygroup name="EnemyAnimalsSnow">
-		<entity name="invisibleAnimalEnemy" prob="6"/>
-		<entity name="animalMountainLion" prob="0.8"/>
-		<entity name="animalDireWolf" prob="0.1"/>
-		<entity name="animalBear" prob="0.1"/>
+		<entity name="invisibleAnimalEnemy" prob="40"/>
+		<entity name="animalMountainLion" prob="30"/>
+		<entity name="animalDireWolf" prob="5"/>
+		<entity name="animalBear" prob="5"/>
 	</entitygroup>
 
-	<entitygroup name="FriendlyAnimalsSnow">
-		<entity name="invisibleAnimal" prob="3"/>
-		<entity name="animalRabbit"/>
-		<entity name="animalBoar" prob="0.4"/>
-		<entity name="animalStag" prob="0.11"/>
-		<entity name="animalDoe" prob="0.29"/>
+	<entitygroup name="WildGameForest">
+		<entity name="invisibleAnimal" prob="50"/>
+		<entity name="animalRabbit" prob="30"/>
+		<entity name="animalChicken" prob="30"/>
+		<entity name="animalBoar" prob="1"/>
+		<entity name="animalStag" prob="1"/>
+		<entity name="animalDoe" prob="1"/>
+		<entity name="animalWolf" prob="1"/>
 	</entitygroup>
 
 	<entitygroup name="EnemyAnimalsForest">
-		<entity name="invisibleAnimalEnemy" prob="6"/>
-		<entity name="animalWolf" prob="0.4"/>
-		<entity name="animalBear" prob="0.05"/>
-		<entity name="animalDireWolf" prob="0.05"/>
-	</entitygroup>
-
-	<entitygroup name="FriendlyAnimalsForest">
-		<entity name="invisibleAnimal" prob="3"/>
-		<entity name="animalRabbit"/>
-		<entity name="animalBoar" prob="0.4"/>
-		<entity name="animalStag" prob="0.11"/>
-		<entity name="animalDoe" prob="0.29"/>
+		<entity name="invisibleAnimalEnemy" prob="40"/>
+		<entity name="animalWolf" prob="20"/>
+		<entity name="animalBear" prob="10"/>
+		<entity name="animalDireWolf" prob="5"/>
 	</entitygroup>
 
 	<entitygroup name="EnemyAnimalsBurntForest">
-		<entity name="invisibleAnimalEnemy" prob="6"/>
-		<entity name="animalZombieDog" prob="0.4"/>
-		<entity name="animalZombieBear" prob="0.05"/>
-		<entity name="animalDireWolf" prob="0.05"/>
-	</entitygroup>
-
-	<entitygroup name="FriendlyAnimalsBurntForest">
-		<entity name="invisibleAnimal" prob="6"/> <!-- The first entity in the list of a group determines if it can spawn in safe zones or not. This animal is not friendly therefore this group will not spawn in safe zones-->
-		<entity name="animalChicken"/>
-		<entity name="animalBoar" prob="0.4"/>
-		<entity name="animalStag" prob="0.11"/>
-		<entity name="animalDoe" prob="0.29"/>
-	</entitygroup>
-
-	<entitygroup name="AnimalsAll" >
-		<entity name="animalRabbit"/>
-		<entity name="animalChicken"/>
-		<entity name="animalStag" prob="0.27"/>
-		<entity name="animalDoe" prob="0.73"/>
-		<entity name="animalBoar"/>
-		<entity name="animalSnake"/>
-		<entity name="animalZombieVulture"/>
-		<entity name="animalWolf"/>
-		<entity name="animalDireWolf" prob="0.15"/>
-		<entity name="animalBear" prob="0.15"/>
+		<entity name="invisibleAnimalEnemy" prob="40"/>
+		<entity name="animalZombieDog" prob="30"/>
+		<entity name="animalZombieBear" prob="20"/>
+		<entity name="animalDireWolf" prob="10"/>
 	</entitygroup>
 
 	<entitygroup name="EnemyAnimalsWasteland" >
-		<entity name="animalSnake"/>
-		<entity name="animalZombieVulture"/>
-		<entity name="animalZombieDog"/>
-		<entity name="animalZombieBear" prob="0.15"/>
-	</entitygroup>
+		<entity name="animalSnake" prob="20"/>
+		<entity name="animalZombieVulture" prob="30"/>
+		<entity name="animalZombieDog" prob="30"/>
+		<entity name="animalZombieBear" prob="20"/>
+	</entitygroup>	
 
 
 	</append>
-</configs>
+</JaxTeller718>

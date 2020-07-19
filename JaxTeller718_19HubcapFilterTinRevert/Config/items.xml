@@ -1,0 +1,57 @@
+<JaxTeller718>
+
+	<remove xpath="/items/item[@name='resourceHubcap']" />
+	<remove xpath="/items/item[@name='resourceAirFilter']" />
+	<remove xpath="/items/item[@name='resourceCandyTin']" />
+
+
+	<append xpath="/items">	
+
+
+
+<item name="resourceHubcap">
+	<property name="CustomIcon" value="hubcapNoMine"/>
+	<property name="HoldType" value="45"/>
+	<property name="Meshfile" value="#Other/Items?Misc/sackPrefab.prefab"/>
+	<property name="Tags" value="junk"/>
+	<property name="DropMeshfile" value="#Other/Items?Misc/sack_droppedPrefab.prefab"/>
+	<property name="Material" value="MresourceHubcap"/>
+	<property name="Stacknumber" value="250"/> <!-- STK loot -->
+	<property name="Weight" value="10"/>
+	<property class="Action1">
+		<property name="Class" value="PlaceAsBlock"/>
+		<property name="Delay" value=".5"/>
+		<property name="Blockname" value="hubcapNoMine"/>
+	</property>
+	<property name="EconomicValue" value="10"/>
+	<property name="Group" value="Resources"/>
+</item>
+
+<item name="resourceAirFilter">
+	<property name="HoldType" value="45"/>
+	<property name="Meshfile" value="#Other/Items?Misc/sackPrefab.prefab"/>
+	<property name="Tags" value="junk"/>
+	<property name="DropMeshfile" value="#Other/Items?Misc/sack_droppedPrefab.prefab"/>
+	<property name="Material" value="MresourceHubcap"/>
+	<property name="Stacknumber" value="250"/> <!-- STK loot -->
+	<property name="Weight" value="15"/>
+	<property name="EconomicValue" value="15"/>
+	<property name="Group" value="Resources"/>
+</item>
+
+<item name="resourceCandyTin">
+	<property name="HoldType" value="45"/>
+	<property name="Meshfile" value="#Other/Items?Misc/sackPrefab.prefab"/>
+	<property name="Tags" value="junk"/>
+	<property name="DropMeshfile" value="#Other/Items?Misc/sack_droppedPrefab.prefab"/>
+	<property name="Material" value="MresourceHubcap"/>
+	<property name="Stacknumber" value="250"/> <!-- STK loot -->
+	<property name="Weight" value="5"/>
+	<property name="EconomicValue" value="5"/>
+	<property name="Group" value="Resources"/>
+</item>
+
+	</append>
+
+
+</JaxTeller718>
